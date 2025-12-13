@@ -1,0 +1,13 @@
+receptor = "C:\Users\Pratham\Documents\Project\2zjin.pdbqt"
+
+center_x = 74.44
+center_y = 32.979
+center_z = 28.979
+
+size_x = 30
+size_y = 30
+size_z = 30
+
+log = vina_log.txt 
+exhaustiveness = 8
+num_modes = 9

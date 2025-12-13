@@ -1,0 +1,987 @@
+ligand,affinity,ligand,
+1270,-11.4,individual_ligand_1270,"8-Hydroxychrysoeriol 8-glucuronide, 8-Hydroxyluteolin 3'-methyl ether 8-glucuronide"
+1223,-10.8,individual_ligand_1223,"7,8,2'-Trimethoxy-4',5'-methylenedioxyisoflavone"
+1069,-10.1,individual_ligand_1069,"6,5'-Dihydroxy-3,7,2',4'-tetramethoxyflavone"
+1048,-9.4,individual_ligand_1048,6-Methoxykaempferol 7-glucoside
+1663,-9.3,individual_ligand_1663,Betagarin
+1686,-9.3,individual_ligand_1686,Bonannione A
+1723,-9.3,individual_ligand_1723,"Cachimoside, Kachimoside, Vitexin 6""-O-xyloside"
+1002,-9.2,individual_ligand_1002,6-Hydroxykaempferol 3-methyl ether 6-glucoside
+1332,-9.2,individual_ligand_1332,"Acacetin 7- (6""-acetylglucoside)"
+1470,-9.2,individual_ligand_1470,Antiarone K
+1042,-9.1,individual_ligand_1042,6-Methoxykaempferol 3-rhamnoside
+1325,-9.1,individual_ligand_1325,Abyssinone III
+1452,-9.1,individual_ligand_1452,Angustone A
+1690,-9.1,individual_ligand_1690,Brickellin
+1838,-9.1,individual_ligand_1838,Chrysin 6-C-glucoside-8-C-alpha-L-arabinopyranoside
+1144,-9,individual_ligand_1144,7-Hydroxyflavan
+1227,-9,individual_ligand_1227,7a-O-Methyldeguelol
+1327,-9,individual_ligand_1327,Abyssinone V
+1337,-9,individual_ligand_1337,"Acacetin 7-apiosyl (1->6) -glucopyranoside, Apigenin 4'-methyl ether 7-apiosyl (1->6) -glucopyranoside, 5-Hydroxy-2- (4-methoxyphenyl) -7- [ (6-O-D-apio-beta-D-furanosyl-beta-D-glucopyranosyl) oxy ] -4H-1-benzopyran-4-one"
+1344,-9,individual_ligand_1344,Acacetin 7-O-alpha-L-rhamnopyranoside
+1355,-9,individual_ligand_1355,Adunctin A
+1491,-9,individual_ligand_1491,"Apigenin 7- (2"",6""-di-p-coumarylglucoside)"
+1529,-9,individual_ligand_1529,Apigenin 7-neohesperidoside-4'-sophoroside
+1006,-8.9,individual_ligand_1006,"6-Hydroxykaempferol 3,6-diglucoside"
+1009,-8.9,individual_ligand_1009,"6-Hydroxykaempferol 5,6-dimethyl ether"
+1225,-8.9,individual_ligand_1225,"7,8,3',4',5'-Pentamethoxy-6"",6""-dimethylpyrano [ 2"",3"":5,6 ] flavone"
+1328,-8.9,individual_ligand_1328,Abyssinone V 4'-methyl ether
+1472,-8.9,individual_ligand_1472,"Apiferol, Apiforol, Leucoapigeninidin"
+1493,-8.9,individual_ligand_1493,"Apigenin 7- (3""-p-coumaroylglucoside)"
+1053,-8.8,individual_ligand_1053,"6-Methoxytricin, 5,7,4'-Trihydroxy-6,3',5'-trimethoxyflavone"
+1056,-8.8,individual_ligand_1056,"6-Prenylherbacetin 3,8-dimethyl ether, 5,7,4'-Trihydroxy-3,8-dimethoxy-6-prenylflavone"
+1096,-8.8,individual_ligand_1096,6'-Demethoxypraecansone B
+1221,-8.8,individual_ligand_1221,"7,8-Dimethoxy-3',4'-methylenedioxyisoflavone"
+1279,-8.8,individual_ligand_1279,"8-Hydroxyluteolin 4'-methyl ether 7- (6""'-acetylallosyl) (1->2) (6""-acetylglucoside)"
+1326,-8.8,individual_ligand_1326,Abyssinone IV
+1329,-8.8,individual_ligand_1329,Abyssinone VI
+1482,-8.8,individual_ligand_1482,"Apigenin 5-rhamnosyl- (1->2) - (6""-acetylglucoside)"
+1874,-8.8,individual_ligand_1874,Citflavanone
+1888,-8.8,individual_ligand_1888,Coccinoside B
+1110,-8.7,individual_ligand_1110,"6""'-Feruloylsaponarin, Isovitexin 7-O-beta- [ 6""'-O- (E) -p-feruloyl ] glucoside"
+1111,-8.7,individual_ligand_1111,"6a-Hydroxyinermin, 6a-Hydroxymaackiain"
+1203,-8.7,individual_ligand_1203,"7,4'-Dihydroxy-3'-methoxy-8-methylflavan"
+1243,-8.7,individual_ligand_1243,"8-C-Methylquercetagetin 3,6,3'-trimethyl ether"
+1276,-8.7,individual_ligand_1276,8-Hydroxyluteolin 3'-methyl ether 7-allosyl- (1->2) -glucoside
+1287,-8.7,individual_ligand_1287,"8-Methoxycoumestrol, 3'-Methoxycoumestrol"
+1333,-8.7,individual_ligand_1333,"Acacetin 7- (6""-methylglucuronide)"
+1338,-8.7,individual_ligand_1338,"Acacetin 7-glucosyl- (1->4) -xyloside, Apigenin 4'-methyl ether 7-glucosyl- (1->4) -xyloside"
+1420,-8.7,individual_ligand_1420,"Ambocin, Genistein 7-O-apiosyl- (1->6) -glucoside"
+1429,-8.7,individual_ligand_1429,Amorilin
+1451,-8.7,individual_ligand_1451,Angusticornin B
+1727,-8.7,individual_ligand_1727,Cajanol
+1786,-8.7,individual_ligand_1786,Castillene C
+1843,-8.7,individual_ligand_1843,Chrysin 8-C-beta-D-glucopyranoside
+1880,-8.7,individual_ligand_1880,Cladrin
+1032,-8.6,individual_ligand_1032,"6-Hydroxytricetin 6,7,3',5'-tetramethyl eter 5-robinobioside"
+1043,-8.6,individual_ligand_1043,"6-Methoxykaempferol 3-rhamnoside-7- (4""'-acetylrhamnoside)"
+1092,-8.6,individual_ligand_1092,"6,8-Dihydroxykaempferol 3,6,7,4'-tetramethyl ether 8-neohesperidoside"
+1190,-8.6,individual_ligand_1190,"7,3'-Dihydroxy-5,4'-dimethoxy-4-phenylcoumarin"
+1206,-8.6,individual_ligand_1206,"7,4'-Dihydroxy-3',5'-dimethoxyisoflavanone"
+1277,-8.6,individual_ligand_1277,8-Hydroxyluteolin 3'-methyl ether 7-glucoside
+1285,-8.6,individual_ligand_1285,"8-Hydroxyluteolin 8,3'-dimethyl ether 7-glucoside"
+1330,-8.6,individual_ligand_1330,"Acacetin 7- (2""-acetylglucoside)"
+1352,-8.6,individual_ligand_1352,Acinoside
+1379,-8.6,individual_ligand_1379,Agecorynin E
+1432,-8.6,individual_ligand_1432,Amoritin
+1434,-8.6,individual_ligand_1434,"Amorphigenin, 8'-Hydroxyrotenone"
+145,-8.6,individual_ligand_145,"2'-Hydroxy-3',4',6',3,4-pentamethoxychalcone"
+1466,-8.6,individual_ligand_1466,Antiarone C
+1490,-8.6,individual_ligand_1490,"Apigenin 7- (2"",3""-diacetylglucoside)"
+1556,-8.6,individual_ligand_1556,"Araneosol, 5,7-Dihydroxy-3,4',6,8-tetramethoxyflavone"
+1620,-8.6,individual_ligand_1620,"Astroside, Sissotrin, Biochanin A 7-O-glucoside"
+1655,-8.6,individual_ligand_1655,Bavachromene
+1666,-8.6,individual_ligand_1666,Betuletol 7-glucoside
+1673,-8.6,individual_ligand_1673,Biochanin A 7-O-rutinoside
+1728,-8.6,individual_ligand_1728,Cajanone
+1738,-8.6,individual_ligand_1738,Calomelanol G
+1740,-8.6,individual_ligand_1740,Calomelanol I
+1770,-8.6,individual_ligand_1770,"Capensinin, 5-O-methyl malvidin"
+1878,-8.6,individual_ligand_1878,Cladrastin 7-O-glucoside
+1033,-8.5,individual_ligand_1033,"6-Methoxy- [ 2"",3"":7,8 ] furanoflavanone"
+1075,-8.5,individual_ligand_1075,"6,7,2',4',5'-Pentamethoxyisoflavone"
+116,-8.5,individual_ligand_116,"2,3-Dihydro-ononin, Dihydroformononetin 7-O-glucoside"
+1286,-8.5,individual_ligand_1286,"8-Hydroxyluteolin 8,4'-diglucuronide"
+1331,-8.5,individual_ligand_1331,"Acacetin 7- (4""""-Acetylrhamnosyl) - (1->6) -glucosyl- (1->3) - (6""-acetylglucoside)"
+1334,-8.5,individual_ligand_1334,"Acacetin 7- [ 2""'- (2-methylbutyryl) rutinoside ]"
+1431,-8.5,individual_ligand_1431,Amorinin
+1442,-8.5,individual_ligand_1442,Anacheiloside
+1500,-8.5,individual_ligand_1500,"Apigenin 7- (6""-acetylalloside) -4'-alloside"
+1521,-8.5,individual_ligand_1521,Apigenin 7-glucuronosyl- (1->2) -glucuronide
+1567,-8.5,individual_ligand_1567,Aromadendrin 5-methyl ether
+1653,-8.5,individual_ligand_1653,Bavachinin
+1708,-8.5,individual_ligand_1708,Broussoflavonol F
+1758,-8.5,individual_ligand_1758,Camelliaside C
+1769,-8.5,individual_ligand_1769,"Capensinidin, 5-Methylmalvidin, 3,4',7-Trihydroxy-3',5,5'-trimethoxyflavylium"
+1834,-8.5,individual_ligand_1834,Chrysin 5-xyloside
+1007,-8.4,individual_ligand_1007,"6-Hydroxykaempferol 3,6-dimethyl ether 7-glucoside"
+1020,-8.4,individual_ligand_1020,"6-Hydroxyluteolin 6,3'-dimethyl ether 7,4'-disulfate"
+1022,-8.4,individual_ligand_1022,"6-Hydroxyluteolin 6,4'-dimethyl ether 7-rutinoside"
+1041,-8.4,individual_ligand_1041,6-Methoxykaempferol 3-O-sulfate
+1066,-8.4,individual_ligand_1066,"6,4'-Dihydroxyaurone 4-O-rutinoside"
+1086,-8.4,individual_ligand_1086,"6,8-Di-C-glucosylgenkwanin 2""'-O-xyloside"
+1130,-8.4,individual_ligand_1130,7-Hydroxy-5-methoxyflavan
+1150,-8.4,individual_ligand_1150,"7-Methoxyapigeninidin, 7-O-Methylapigeninidin, 5,4' -Dihydroxy-7-methoxyflavylium, 5-Hydroxy-7-methoxy-2- (4-hydroxyphenyl) -1-benzopyrylium"
+1312,-8.4,individual_ligand_1312,9-O-Methylneodunol
+1341,-8.4,individual_ligand_1341,Acacetin 7-neohesperidoside
+1343,-8.4,individual_ligand_1343,"Acacetin 7-O- [ 6""-O-glucosyl-2""-O- (3""'-acetylrhamnosyl) glucoside"
+1346,-8.4,individual_ligand_1346,"Acacetin 7-rhamnosyl- (1->4"") [ glucosyl- (1->6"") (6""'-acetylsophoroside) ]"
+1422,-8.4,individual_ligand_1422,Ambofuranol
+1423,-8.4,individual_ligand_1423,Ambonane
+1427,-8.4,individual_ligand_1427,Amoradinin
+1428,-8.4,individual_ligand_1428,Amoricin
+1498,-8.4,individual_ligand_1498,"Apigenin 7- (4"",6""-di-p-coumarylglucoside)"
+1512,-8.4,individual_ligand_1512,"Apigenin 7-apiofuranosyl- (1->6) -glucoside, 5,7,4'-Trihydroxyflavone 7-apiofuranosyl- (1->6) -glucoside"
+1539,-8.4,individual_ligand_1539,Apigenin 7-sulfate
+1540,-8.4,individual_ligand_1540,Apigenin 7-xyloside
+1578,-8.4,individual_ligand_1578,Artelasticin
+1591,-8.4,individual_ligand_1591,Artocommunol CA
+1637,-8.4,individual_ligand_1637,Baicalein 6-methyl ether 7-glucosyl- (1->3) -rhamnoside
+1688,-8.4,individual_ligand_1688,"Bracteoside, Kaempferol 3-methyl ether 7-glucuronide"
+1689,-8.4,individual_ligand_1689,Brevicornin
+1837,-8.4,individual_ligand_1837,Chrysin 6-C-beta-D-glucopyranoside
+1866,-8.4,individual_ligand_1866,Chrysosplin
+1884,-8.4,individual_ligand_1884,"Clematin, Clematine"
+1031,-8.3,individual_ligand_1031,"6-Hydroxytricetin 6,7,3',5'-tetramethyl eter 5-rhamnoside"
+1037,-8.3,individual_ligand_1037,"6-Methoxykaempferol 3- (6""-acetylglucoside)"
+104,-8.3,individual_ligand_104,2-Methoxymedicarpin
+1050,-8.3,individual_ligand_1050,"6-Methoxyluteolin 3',4'-disulfate"
+1054,-8.3,individual_ligand_1054,"6-Methylapigenin, 5,7,4'-Trihydroxy-6-methylflavone"
+1055,-8.3,individual_ligand_1055,"6-Prenylapigenin, 6-C-Prenylapigenin, 5,7,4'-Trihydroxy-6-prenylflavone"
+10,-8.3,individual_ligand_10,(-) -Isoscoparin
+1117,-8.3,individual_ligand_1117,"7-Geranylformononetin, 4'-Methoxy-7-geranyloxyisoflavone"
+1143,-8.3,individual_ligand_1143,"7-Hydroxy-8,3',4'-trimethoxyisoflavone"
+117,-8.3,individual_ligand_117,"2,3-Dihydroauriculatin"
+1194,-8.3,individual_ligand_1194,"7,3'-DIMETHOXYFLAVONE, 7,3'-Dimethoxy Flavone"
+11,-8.3,individual_ligand_11,(-) -Medicarpin
+1204,-8.3,individual_ligand_1204,"7,4'-Dihydroxy-3'-methoxyflavan"
+1210,-8.3,individual_ligand_1210,"7,4'-Dihydroxy-8-methylflavan"
+1217,-8.3,individual_ligand_1217,"7,5',4'-Trimethoxyflavone 7-xylosyl- (1->6) -glucoside"
+1226,-8.3,individual_ligand_1226,"7,8,3',4',5'-Pentamethoxyflavone"
+1239,-8.3,individual_ligand_1239,"8-C-Methyl-6-hydroxykaempferol 3,6,7-trimethyl ether"
+123,-8.3,individual_ligand_123,"2,4,2',4'-Tetrahydroxychalcone"
+1281,-8.3,individual_ligand_1281,8-Hydroxyluteolin 4'-methyl ether 8-glucoside
+1295,-8.3,individual_ligand_1295,"8-Prenylkaempferol 4'-methyl ether 3- [ 4""'-,6""'-diacetylglucosyl- (1->3) -4""-acetylrhamnoside ]"
+1314,-8.3,individual_ligand_1314,"Abietin, Vitexin 6""-O-rhamnoside"
+1340,-8.3,individual_ligand_1340,Acacetin 7-glucuronosyl- (1->2) -glucuronide
+1342,-8.3,individual_ligand_1342,"Acacetin 7-O- [ 2""'-O-rhamnosyl-2""-O-glucosylglucoside"
+1376,-8.3,individual_ligand_1376,Agecorynin B
+1384,-8.3,individual_ligand_1384,Agehoustin C
+1388,-8.3,individual_ligand_1388,Agehoustin G
+1392,-8.3,individual_ligand_1392,Agestricin D
+1441,-8.3,individual_ligand_1441,Amurensin
+1444,-8.3,individual_ligand_1444,Andrographidin A
+1453,-8.3,individual_ligand_1453,Angustone B
+1524,-8.3,individual_ligand_1524,Apigenin 7-methyl ether 4'-glucoside
+1530,-8.3,individual_ligand_1530,Apigenin 7-O- (2G-rhamnosyl) gentiobioside
+1549,-8.3,individual_ligand_1549,Apiin
+1554,-8.3,individual_ligand_1554,Apuleirin
+1581,-8.3,individual_ligand_1581,Artelastochromene
+1582,-8.3,individual_ligand_1582,Artelastofuran
+15,-8.3,individual_ligand_15,(-) -Phaseollinisoflavan
+1609,-8.3,individual_ligand_1609,Artonin S
+1619,-8.3,individual_ligand_1619,"Astrasikokioside I, Desacyl gladiatoside B, Kaempferol 3-rhamnosyl- (1->6) - [ rhamnosyl- (1->2) -galactoside ] -7-rhamnoside"
+1687,-8.3,individual_ligand_1687,"Bonanzin, Quercetagetin 3,6,3',4'-tetramethyl ether, 5,7-Dihydroxy-3,6,3',4'-tetramethoxyflavone"
+1733,-8.3,individual_ligand_1733,Calomelanol A
+1775,-8.3,individual_ligand_1775,"Carpachromene, 5,4'-Dihidroxy-6"",6""-dimethylpyrano [ 2"",3"":7,6 ] flavone"
+1793,-8.3,individual_ligand_1793,Catechin 5-O-beta-D-glucopyranoside-4'-Me
+1821,-8.3,individual_ligand_1821,Chalconaringenin 2'-rhamnosyl- (1->4) -glucoside
+1828,-8.3,individual_ligand_1828,Chamanetin
+1877,-8.3,individual_ligand_1877,Cladrastin
+1000,-8.2,individual_ligand_1000,"6-Hydroxy-7,2'-dimethoxy-4',5'-methylenedioxyisoflavone"
+100,-8.2,individual_ligand_100,2-Hydroxyhomopterocarpin
+1025,-8.2,individual_ligand_1025,"6-Hydroxyluteolin 7,3'-dimethyl ether 6-glucoside"
+1036,-8.2,individual_ligand_1036,6-Methoxyhomopterocarpin
+1044,-8.2,individual_ligand_1044,6-Methoxykaempferol 3-robinobioside
+1049,-8.2,individual_ligand_1049,"6-Methoxykaempferol, 3,5,7,4'-Tetrahydroxy-6-methoxyflavone"
+1068,-8.2,individual_ligand_1068,"6,5'-Dihydroxy-3,5,7,2',4'-pentamethoxyflavone"
+1121,-8.2,individual_ligand_1121,"7-Hydroxy-3,5,4'-trimethoxyflavanone"
+1195,-8.2,individual_ligand_1195,"7,3'-Dimethylorobol"
+119,-8.2,individual_ligand_119,"2,3,4,5,2',3',4',6'-Octamethoxychalcone"
+1207,-8.2,individual_ligand_1207,"7,4'-Dihydroxy-5-methoxyflavanone 7-neohesperidoside-4'-glucoside"
+1262,-8.2,individual_ligand_1262,"8-Hydroxy-5,7-dimethoxyflavanone"
+1263,-8.2,individual_ligand_1263,"8-Hydroxy-5,7,3',4'-tetramethoxy-4-phenylcoumarin"
+1267,-8.2,individual_ligand_1267,"8-Hydroxyapigenin 8- (2"",4""-disulfatoglucuronide)"
+1296,-8.2,individual_ligand_1296,8-Prenylkaempferol 4'-methyl ether 3-rhamnosyl- (1->6) -galactoside-7-galactoside
+1308,-8.2,individual_ligand_1308,"8,4'-Dihydroxyisoflavone"
+1309,-8.2,individual_ligand_1309,"9-Methoxy-7-phenyl-5H-furo [ 3,2-g ] [ 1 ] benzopyran-5-one"
+1322,-8.2,individual_ligand_1322,Abyssinoflavanone VI
+1370,-8.2,individual_ligand_1370,Afzelin
+1430,-8.2,individual_ligand_1430,Amorin
+1499,-8.2,individual_ligand_1499,"Apigenin 7- (4"",6""-diacetylalloside) -4'-alloside"
+1503,-8.2,individual_ligand_1503,"Apigenin 7- (6""-ethylglucuronide)"
+1513,-8.2,individual_ligand_1513,"Apigenin 7-cellobioside-4'-glucoside, 5,7,4'-Trihydroxyflavone 7-cellobioside-4'-glucoside"
+1547,-8.2,individual_ligand_1547,"Apigeninidin 5,7-diglucoside"
+1566,-8.2,individual_ligand_1566,Aromadendrin 4'-xyloside
+1569,-8.2,individual_ligand_1569,"Aromadendrin 6-C-glucoside, 6-C-Glucopyranosyldihydrokaempferol"
+1583,-8.2,individual_ligand_1583,Artemetin 5-glucosyl- (1->4) -rhamnoside
+1621,-8.2,individual_ligand_1621,Atalantoflavone
+1664,-8.2,individual_ligand_1664,Betavulgarin
+1665,-8.2,individual_ligand_1665,Betuletol 3-galactoside
+1667,-8.2,individual_ligand_1667,"Betuletol, 6,4'-Dimethoxy-3,5,7-trihydroxyflavone"
+1792,-8.2,individual_ligand_1792,Catechin 4'-O-beta-D-glucopyranoside
+1818,-8.2,individual_ligand_1818,"Cerrosillin, 5,6,3',5'-tetramethoxyflavone"
+1868,-8.2,individual_ligand_1868,Ciliatin B
+1005,-8.1,individual_ligand_1005,"6-Hydroxykaempferol 3,5,7,4'-tetramethyl ether 6-rhamnoside"
+1015,-8.1,individual_ligand_1015,6-Hydroxyluteolin 6-glucoside-3'-rhamnoside
+1047,-8.1,individual_ligand_1047,6-Methoxykaempferol 4'-rhamnoside
+1060,-8.1,individual_ligand_1060,"6,2',3'-Trimethoxyflavone"
+1095,-8.1,individual_ligand_1095,"6,8-Diprenylpratensein"
+1113,-8.1,individual_ligand_1113,6a-Hydroxymedicarpin
+1229,-8.1,individual_ligand_1229,"8-C-beta-D-Glucofuranosylapigenin 2""-O-acetate"
+1232,-8.1,individual_ligand_1232,"8-C-beta-D-Glucopyranosylkaempferol, 8-beta-D-Glucopyranosyl-3,5,7,4'-tetrahydroxyflavone"
+1251,-8.1,individual_ligand_1251,"8-C-xylopyranosylchrysoeriol 2""-O-glucoside"
+1265,-8.1,individual_ligand_1265,8-Hydroxyapigenin 7-sophoroside
+130,-8.1,individual_ligand_130,"2,6,3'-Trihydroxy-4'-methoxy-2-benzylcoumaranone"
+1310,-8.1,individual_ligand_1310,"9-O-Methylcoumestrol, 4'-O-Methylcoumestrol"
+1311,-8.1,individual_ligand_1311,9-O-Methylglyceofuran
+1315,-8.1,individual_ligand_1315,Abrectorin
+1375,-8.1,individual_ligand_1375,Agecorynin A
+1405,-8.1,individual_ligand_1405,"Alnusin, 6-Methoxygalangin, 3,5,7-Trihydroxy-6-methoxyflavone"
+1416,-8.1,individual_ligand_1416,"ALVOCIDIB, FLAVOPIRIDOL, Flavopiridol, HL 275, HMR 1275, L 86 8275, L-868275, MDL-107826A, NSC-649890"
+1443,-8.1,individual_ligand_1443,Androechin
+1458,-8.1,individual_ligand_1458,Anhydroicaritin 3-galactosyl- (1->3) -rhamnoside-7-glucoside
+1515,-8.1,individual_ligand_1515,Apigenin 7-glucoside-4'-p-coumarate
+1537,-8.1,individual_ligand_1537,Apigenin 7-rutinoside-4'-glucoside
+1543,-8.1,individual_ligand_1543,"Apigenin 7,4'-diglucoside"
+1546,-8.1,individual_ligand_1546,Apigenin 8-C- [ xylosyl- (1->2) -galactoside ]
+1579,-8.1,individual_ligand_1579,Artelastin
+165,-8.1,individual_ligand_165,2'-Methoxybiochanin A
+1672,-8.1,individual_ligand_1672,"Biochanin A 7-O-glucoside-6""-malonate"
+1681,-8.1,individual_ligand_1681,Boesenbergin A
+1706,-8.1,individual_ligand_1706,Broussoflavonol D
+1716,-8.1,individual_ligand_1716,"Bucegin, Galangustin"
+1739,-8.1,individual_ligand_1739,Calomelanol H
+1765,-8.1,individual_ligand_1765,"Cannflavin B, Canniflavone, Canniflavone 1, 6-Prenylchrysoeriol"
+1780,-8.1,individual_ligand_1780,"Cassiaoccidentalin C, 6-C- (6-Deoxy-ribo-hexos-3-ulosyl) diomestin 2""-O-rhamnoside"
+1848,-8.1,individual_ligand_1848,Chrysoeriol 6-C-glucoside-8-C-arabinopyranoside
+1854,-8.1,individual_ligand_1854,Chrysoeriol 7-neohesperidoside
+1021,-8,individual_ligand_1021,"6-Hydroxyluteolin 6,4'-dimethyl ether 7-glucoside"
+1026,-8,individual_ligand_1026,"6-Hydroxymyricetin 3,6,3',5'-tetramethyl ether 7-glucoside"
+1039,-8,individual_ligand_1039,6-Methoxykaempferol 3-glucuronide
+1074,-8,individual_ligand_1074,"6,7,2',3',4'-Pentamethoxyisoflavone"
+1088,-8,individual_ligand_1088,"6,8-Di-C-methylkaempferol 7-methyl ether"
+1135,-8,individual_ligand_1135,"7-Hydroxy-5,6,8,3'-tetramethoxy-4',5'-methylenedioxyflavone"
+1148,-8,individual_ligand_1148,7-Methoxy-2-methylisoflavone
+1192,-8,individual_ligand_1192,"7,3'-Dihydroxy-5,4'-dimethoxy-6-formyl-4-phenylcoumarin"
+1218,-8,individual_ligand_1218,"7,8- (2,2-Dimethylpyrano) -3,4'-dihydroxy-5-methoxyflavan"
+1220,-8,individual_ligand_1220,"7,8-Dimethoxy-3',4'-methylenedioxyflavone"
+1261,-8,individual_ligand_1261,"8-Hydroxy-5,6,7,3',4',5'-hexamethoxyflavone"
+127,-8,individual_ligand_127,"2,5-Dihydroxy-7-methoxy-6-methylflavanone"
+1283,-8,individual_ligand_1283,8-Hydroxyluteolin 4'-methyl ether 8-glucuronide
+1284,-8,individual_ligand_1284,8-Hydroxyluteolin 8-glucoside-3'-sulfate
+1301,-8,individual_ligand_1301,8-trans- [ 2- (6-Benzoyloxy-4-hydroxy-2-methoxy-3-methylphenyl) ethenyl ] -5-methoxyflavan-7-ol
+1321,-8,individual_ligand_1321,Abyssinoflavanone V
+1339,-8,individual_ligand_1339,Acacetin 7-glucuronide
+1403,-8,individual_ligand_1403,Almeidein
+1421,-8,individual_ligand_1421,Ambofuracin
+1445,-8,individual_ligand_1445,"Andrographin, 2'-O-Methylskullcapflavone I, Skullcapflavone I 2'-methyl ether, 5-Hydroxy-2',7,8-trimethoxyflavone"
+1457,-8,individual_ligand_1457,"Anhydroicaritin 3- (6""'-acetylgalactosyl) (1->3) -rhamnoside-7-glucoside"
+1468,-8,individual_ligand_1468,Antiarone E
+1480,-8,individual_ligand_1480,Apigenin 5-galactoside
+1510,-8,individual_ligand_1510,Apigenin 7-alpha-L-arabinofuranosyl- (1->6) -glucoside
+1517,-8,individual_ligand_1517,Apigenin 7-glucuronide
+1558,-8,individual_ligand_1558,Arjunone
+1559,-8,individual_ligand_1559,Aromadendrin 3-acetate
+1572,-8,individual_ligand_1572,Aromadendrin 7-rhamnoside
+160,-8,individual_ligand_160,2'-Hydroxygenistein
+1622,-8,individual_ligand_1622,Auranetin
+1633,-8,individual_ligand_1633,"Baicalein 5,6-dimethyl ether"
+1640,-8,individual_ligand_1640,Bannamurpanisin
+1660,-8,individual_ligand_1660,Benthamitin
+1671,-8,individual_ligand_1671,Biochanin A 7-O-gentiobioside
+1679,-8,individual_ligand_1679,Boeravinone B
+1683,-8,individual_ligand_1683,"Bolusanthin IV, Centrolobofuran, 6,6'-Dihydroxy-4'-methoxy-2-arylbenzofuran, 2-(2-Hydroxy-4-methoxyphenyl)-6-benzofuranol"
+1684,-8,individual_ligand_1684,Bonanniol A
+1718,-8,individual_ligand_1718,Burttinone
+1747,-8,individual_ligand_1747,calycopterin
+1773,-8,individual_ligand_1773,"Carajuron, Carajurone"
+1822,-8,individual_ligand_1822,Chalconaringenin 2'-rhamnosyl- (1->4) -xyloside
+1839,-8,individual_ligand_1839,"Chrysin 7- (4""-acetylglucoside)"
+1862,-8,individual_ligand_1862,Chrysosplenoside C
+1869,-8,individual_ligand_1869,"Cirantin, Hesperidin, Hesperidoside, Hesperetin 7-rutinoside, Hesperetin 7-rhamnoglucoside"
+1873,-8,individual_ligand_1873,cis-Tephrostachin
+1016,-7.9,individual_ligand_1016,"6-Hydroxyluteolin 6,3'-dimethyl eter 5-rhamnoside"
+1027,-7.9,individual_ligand_1027,"6-Hydroxymyricetin 6,3',5'-trimethyl ether 3-glucoside"
+1045,-7.9,individual_ligand_1045,"6-Methoxykaempferol 3,7-bis (3-acetylrhamnoside)"
+1077,-7.9,individual_ligand_1077,"6,7,3',4'-Tetramethoxyisoflavone"
+107,-7.9,individual_ligand_107,"2-O-Rhamnosylvitexin, Vitexin 2-O-rhamnoside"
+1094,-7.9,individual_ligand_1094,"6,8-Diprenylgenistein, 8-gamma,gamma-Dimethylallylwighteone, 5,7,4'-Trihydroxy-6,8-diprenylisoflavone, 8- (gamma,gamma-Dimethylallyl) wighteone, 6,8-Diisoprenyl-5,7,4'-trihydroxy isoflavone"
+1109,-7.9,individual_ligand_1109,"6""'- (3-Hydroxy-3-methylglutaroyl) isoviolanthin"
+1126,-7.9,individual_ligand_1126,"7-Hydroxy-3',4'-dimethoxyflavone"
+1132,-7.9,individual_ligand_1132,"7-Hydroxy-5,4'-dimethoxyflavan"
+1188,-7.9,individual_ligand_1188,"7,3'-Dihydroxy-4'-methoxy-8-methylflavan"
+1189,-7.9,individual_ligand_1189,"7,3'-Dihydroxy-4'-methoxyflavan"
+1219,-7.9,individual_ligand_1219,"7,8-Dimethoxy Flavone"
+1235,-7.9,individual_ligand_1235,"8-C-Glucopyranosylgenistein 6""-O-apioside"
+1245,-7.9,individual_ligand_1245,"8-C-Methylquercetagetin 3,6,7,4'-tetramethyl ether"
+1246,-7.9,individual_ligand_1246,"8-C-Methylvellokaempferol 3,5-dimethyl ether"
+124,-7.9,individual_ligand_124,"2,4,4'-Trihydroxydihydrochalcone"
+126,-7.9,individual_ligand_126,"2,4'-Dihydroxy-4,6-dimethoxydihydrochalcone"
+1288,-7.9,individual_ligand_1288,8-Methoxypinocembrin 7-O-prenyl ether
+1293,-7.9,individual_ligand_1293,8-Prenylafzelechin 5-methyl ether
+1307,-7.9,individual_ligand_1307,"8,3',4'-Trimethoxy-6,7-methylenedioxyisoflavone"
+1320,-7.9,individual_ligand_1320,Abyssinoflavanone IV
+1336,-7.9,individual_ligand_1336,"Acacetin 7- [ 6""'-acetylglucosyl- (1->2) ] -rhamnosyl- (1->6) -glucoside"
+1345,-7.9,individual_ligand_1345,Acacetin 7-rhamnosyl- (1->2) -glucosyl- (1->2) -glucosyl- (1->2) -glucoside
+1351,-7.9,individual_ligand_1351,Aciculatin
+1440,-7.9,individual_ligand_1440,Ampelopsin 3'-methyl ether 4'-rhamnoside
+1473,-7.9,individual_ligand_1473,Apigeniflavan
+151,-7.9,individual_ligand_151,2'-Hydroxy-6'-methoxy-4'-prenyloxychalcone
+1520,-7.9,individual_ligand_1520,Apigenin 7-glucuronide-4'-rhamnoside
+1523,-7.9,individual_ligand_1523,Apigenin 7-lactate
+1571,-7.9,individual_ligand_1571,Aromadendrin 7-methyl ether 5-glucoside
+1575,-7.9,individual_ligand_1575,"Aromadendrin 7,4'-dimethyl ether 5-glucoside"
+1577,-7.9,individual_ligand_1577,Arteanoflavone
+1592,-7.9,individual_ligand_1592,Artocommunol CC
+1623,-7.9,individual_ligand_1623,Aurapin
+1631,-7.9,individual_ligand_1631,Australone A
+1642,-7.9,individual_ligand_1642,Baohuosu
+1646,-7.9,individual_ligand_1646,Barpisoflavone C
+1652,-7.9,individual_ligand_1652,Bavachin
+1736,-7.9,individual_ligand_1736,Calomelanol D
+1754,-7.9,individual_ligand_1754,Calyxin M
+1766,-7.9,individual_ligand_1766,"Caohuoside B, 8-Prenylkaempferol 4'-methyl ether 3""- [ 4""',6""'-diacetylglucosyl- (1->3) -4""-acetylrhamnoside ] -7-glucoside"
+1782,-7.9,individual_ligand_1782,Casticin 3'-glucoside
+1784,-7.9,individual_ligand_1784,Castillene A
+1820,-7.9,individual_ligand_1820,Chalconaringenin 2'-O-glucoside 4'-O-gentobioside
+1833,-7.9,individual_ligand_1833,Chlorflavonin
+1841,-7.9,individual_ligand_1841,Chrysin 7-glucuronide
+1851,-7.9,individual_ligand_1851,"Chrysoeriol 7- (3"",6""-di- (E) -p-coumaroylglucoside)"
+1860,-7.9,individual_ligand_1860,Chrysosplenol G
+1876,-7.9,individual_ligand_1876,Citrusinol
+1034,-7.8,individual_ligand_1034,6-Methoxyaromadendrin 3-O-acetate
+1082,-7.8,individual_ligand_1082,"6,8-Di-C-glucopyranosyldiosmetin"
+108,-7.8,individual_ligand_108,2-Prenyl-6a-hydroxyphaseollidin
+1098,-7.8,individual_ligand_1098,"6'-Hydroxy-2,3,4,5,2',3',4'-heptamethoxychalcone"
+1099,-7.8,individual_ligand_1099,"6'-Hydroxy-3,4,2',3',4'-pentamethoxychalcone"
+1100,-7.8,individual_ligand_1100,"6'-Hydroxy-4,2',3',4'-tetramethoxychalcone"
+1106,-7.8,individual_ligand_1106,"6"",6""-Dimethylpyrano [ 2"",3"":6',5' ] -2'-hydroxy-3,4,4'-trimethoxychalcone"
+1149,-7.8,individual_ligand_1149,"7-Methoxy-5,6:3',4'-bis (methylenedioxy) flavone"
+1165,-7.8,individual_ligand_1165,7-O-Prenylpinocembrin
+1170,-7.8,individual_ligand_1170,"7,2'-Dihydroxy-3',4'-dimethoxyisoflavone 7-O-glucoside"
+1178,-7.8,individual_ligand_1178,"7,2'-Dihydroxy-8,4'-dimethoxyisoflav-3-ene"
+1181,-7.8,individual_ligand_1181,"7,2',4'-Trihydroxy-3'-methoxyisoflavone"
+118,-7.8,individual_ligand_118,"2,3,4,2',4',6'-Hexamethoxychalcone"
+1198,-7.8,individual_ligand_1198,"7,4'-Di-O-methyldaidzein"
+1264,-7.8,individual_ligand_1264,8-Hydroxyapigenin 7-glucosyl- (1->2) -xyloside
+1275,-7.8,individual_ligand_1275,"8-Hydroxygalangin 7-methyl ether, 3,5,8-Trihydroxy-7-methoxyflavone"
+1282,-7.8,individual_ligand_1282,8-Hydroxyluteolin 4'-methyl ether 8-glucoside-3'-sulfate
+12,-7.8,individual_ligand_12,(-) -Mucronulatol
+1317,-7.8,individual_ligand_1317,"Abrusin, 8-C-Glucosyl-6,7-di-O-methyl-scutellarein"
+1318,-7.8,individual_ligand_1318,"Abyssinin I, Abyssinoflavanone I"
+1319,-7.8,individual_ligand_1319,"Abyssinin II, Abyssinoflavanone II, 5'-Prenylhomoeriodictyol"
+1335,-7.8,individual_ligand_1335,"Acacetin 7- [ 3""'- (2-methylbutyryl) rutinoside ]"
+134,-7.8,individual_ligand_134,2'-beta-Dihydroxychalcone
+13,-7.8,individual_ligand_13,(-) -Nissolin
+1460,-7.8,individual_ligand_1460,"Anhydroicaritin 3,7-diglucoside"
+1467,-7.8,individual_ligand_1467,Antiarone D
+1469,-7.8,individual_ligand_1469,Antiarone J
+1477,-7.8,individual_ligand_1477,Apigenin 4'-glucoside
+1502,-7.8,individual_ligand_1502,"Apigenin 7- (6""-crotonylglucoside)"
+1536,-7.8,individual_ligand_1536,Apigenin 7-rutinoside
+1538,-7.8,individual_ligand_1538,"Apigenin 7-sophorotrioside, 5,7,4'-Trihydroxyflavone 7-sophorotrioside"
+1541,-7.8,individual_ligand_1541,Apigenin 7-xylosyl- (1->2) -glucoside
+1555,-7.8,individual_ligand_1555,"Araneol, 5,7-Dihydroxy-3,6,8-trimethoxyflavone"
+1573,-7.8,individual_ligand_1573,Aromadendrin 7-rhamnosyl- (1->4) -galactoside
+1627,-7.8,individual_ligand_1627,Auriculatin
+1629,-7.8,individual_ligand_1629,Auriculoside
+1636,-7.8,individual_ligand_1636,Baicalein 6-methyl ether 7-glucoside
+1644,-7.8,individual_ligand_1644,"Barbigerone, Ionchocarpusone, Lonchocarpusone, 8,8-Dimethyl-3- (2,4,5-trimethoxyphenyl) -4H,8H-benzo [1,2-b:3,4-b'] dipyran-4-one"
+1654,-7.8,individual_ligand_1654,Bavachromanol
+1658,-7.8,individual_ligand_1658,Bayin
+1729,-7.8,individual_ligand_1729,"Callistephin, Pelargonidin 3-glucoside, Pelargonidin 3-O-beta-D-glucopyranoside"
+1737,-7.8,individual_ligand_1737,Calomelanol D-1
+1760,-7.8,individual_ligand_1760,Candidol 3-glucoside
+1762,-7.8,individual_ligand_1762,Canescacarpin
+1781,-7.8,individual_ligand_1781,"Castanin, Afromosin, Afrormosin"
+1783,-7.8,individual_ligand_1783,"Casticin, Vitexicarpin, Quercetagetin 3,6,7,4'-tetramethyl ether, 3',5-Dihydroxy-3,4',6,7-tetramethoxyflavone, 3,6,7,4'-Tetra-O-methyl-5,3'-dihydroxyflavone"
+178,-7.8,individual_ligand_178,"2',4'-Dihydroxy-3,4-methylenedioxydihydrochalcone"
+1796,-7.8,individual_ligand_1796,"Catechin 5,7,3'-trimethyl ether"
+1826,-7.8,individual_ligand_1826,Chalconaringenin 4'-glucoside
+1857,-7.8,individual_ligand_1857,"Chrysosplenol C 6,4'-diglucoside"
+1008,-7.7,individual_ligand_1008,"6-Hydroxykaempferol 3,6,7-triglucoside"
+1061,-7.7,individual_ligand_1061,"6,2'4'-Trihydroxy-2-phenylbenzofuran"
+1078,-7.7,individual_ligand_1078,"6,7,3',4',5'-Pentamethoxyisoflavone"
+1084,-7.7,individual_ligand_1084,"6,8-Di-C-glucopyranosylnaringenin"
+1087,-7.7,individual_ligand_1087,"6,8-Di-C-methylkaempferol 3,7-dimethyl ether"
+1089,-7.7,individual_ligand_1089,"6,8-Di-C-methylmyricetin 3,4'-dimethyl ether"
+1093,-7.7,individual_ligand_1093,"6,8-Dimethoxy-2,3-trans-2- (4-hydroxy-2,3-dimethoxyphenyl) -9- (5-hydroxy-2-methoxyphenyl) -3-hydroxymethyl-2,3-dihydro-7H-1,4-dioxono [ 2,3-h ] chromene-7-one"
+1115,-7.7,individual_ligand_1115,"6a,7-Dihydroxymedicarpin"
+1116,-7.7,individual_ligand_1116,7-Acetyloxy-2-methylisoflavone
+1120,-7.7,individual_ligand_1120,"7-Hydroxy-2',4',5'-trimethoxyisoflavone 7-O-glucoside"
+1168,-7.7,individual_ligand_1168,7-Prenyloxy-8-C- (3-hydroxy-3-methyl-trans-buten-1-yl) flavanone
+1179,-7.7,individual_ligand_1179,"7,2'-Dihydroxyflavone 7-glucoside"
+120,-7.7,individual_ligand_120,"2,3,4,5,2',6'-Hexamethoxy-3',4'-methylenedioxychalcone"
+1215,-7.7,individual_ligand_1215,"7,4'-Dihydroxyflavone 7-rutinoside"
+1244,-7.7,individual_ligand_1244,"8-C-Methylquercetagetin 3,6,7,3'-tetramethyl ether"
+1256,-7.7,individual_ligand_1256,8-Demethylsideroxylin
+1290,-7.7,individual_ligand_1290,8-O-Methylretusin 7-O-glucoside
+1292,-7.7,individual_ligand_1292,"8-p-Coumaroyl-3,4-dihydro-5,7-dihydroxy-4-phenylcoumarin"
+1348,-7.7,individual_ligand_1348,Acacetin 7-rutinoside
+1357,-7.7,individual_ligand_1357,Adunctin C
+1390,-7.7,individual_ligand_1390,Agestricin B
+1439,-7.7,individual_ligand_1439,Amorpholone
+1449,-7.7,individual_ligand_1449,Angophorol
+1471,-7.7,individual_ligand_1471,Apetalolide
+14,-7.7,individual_ligand_14,(-) -Phaseollidin
+1514,-7.7,individual_ligand_1514,"Apigenin 7-cellobioside, 5,7,4'-Trihydroxyflavone 7-cellobioside"
+1534,-7.7,individual_ligand_1534,Apigenin 7-rhamnosyl- (1->2) -galacturonide
+1548,-7.7,individual_ligand_1548,Apigeninidin 7-glucoside
+1550,-7.7,individual_ligand_1550,"Apimaysin, 3'-Deoxymaysin, 2,6-Anhydro-1-deoxy-5-O- (6-deoxy-alpha-L-mannopyranosyl) -6-C- [ 5,7-dihydroxy-2- (4-hydroxyphenyl) -4-oxo-4H-1-benzopyran-6-yl ] -xylo-3-hexulose"
+1564,-7.7,individual_ligand_1564,Aromadendrin 4'-glucoside
+1570,-7.7,individual_ligand_1570,Aromadendrin 7-methyl ether
+1574,-7.7,individual_ligand_1574,"Aromadendrin 7,4'-dimethyl ether"
+158,-7.7,individual_ligand_158,2'-Hydroxydihydrodaidzein
+1632,-7.7,individual_ligand_1632,"Ayanin, 3,7,4'-Tri-O-methylquercetin, 5,3'-Dihydroxy-3,7,4'-trimethoxyflavone"
+1638,-7.7,individual_ligand_1638,Baicalein 6-methyl ether 7-glucuronide
+1657,-7.7,individual_ligand_1657,Bavacoumestan B
+1694,-7.7,individual_ligand_1694,Brosimacutin E
+1695,-7.7,individual_ligand_1695,Brosimacutin F
+1734,-7.7,individual_ligand_1734,Calomelanol B
+1756,-7.7,individual_ligand_1756,Camelliaside A
+1757,-7.7,individual_ligand_1757,Camelliaside B
+1764,-7.7,individual_ligand_1764,Cannflavin A
+1779,-7.7,individual_ligand_1779,Cassiaoccidentalin A
+177,-7.7,individual_ligand_177,"2',4'-Dihydroxy-3,4-dimethoxychalcone"
+1787,-7.7,individual_ligand_1787,Castillene D
+1799,-7.7,individual_ligand_1799,"Catechin 7,4'-dimethyl ether"
+1806,-7.7,individual_ligand_1806,Cedreprenone
+183,-7.7,individual_ligand_183,"2',4'-Dihydroxy-3',6"",6""-trimethylpyrano [ 2"",3"":6',5' ] chalcone"
+184,-7.7,individual_ligand_184,"2',4'-Dihydroxy-4,6'-dimethoxychalcone"
+1858,-7.7,individual_ligand_1858,Chrysosplenol E
+1867,-7.7,individual_ligand_1867,Ciliatin A
+1879,-7.7,individual_ligand_1879,Cladrastin 7-O-laminaribioside
+1886,-7.7,individual_ligand_1886,Clitorin
+1001,-7.6,individual_ligand_1001,"6-HYDROXYFLAVONE, NSC-26744"
+1003,-7.6,individual_ligand_1003,6-Hydroxykaempferol 3-rutinoside-6-glucoside
+1023,-7.6,individual_ligand_1023,"6-Hydroxyluteolin 6,7-dimethyl ether 4'-glucoside"
+1051,-7.6,individual_ligand_1051,6-Methoxypterocarpin
+1057,-7.6,individual_ligand_1057,6-Prenylisocaviunin
+1058,-7.6,individual_ligand_1058,"6-Prenylnaringenin, (S) -2,3-Dihydro-4',5,7-trihydroxy-6- (3-methyl-2-butenyl) flavone"
+1062,-7.6,individual_ligand_1062,"6,3'-Dihydroxy-4,4'-dimethoxy-5-methylaurone"
+1091,-7.6,individual_ligand_1091,"6,8-Di-C-rhamnosylapigenin"
+1112,-7.6,individual_ligand_1112,6a-Hydroxyisomedicarpin
+1123,-7.6,individual_ligand_1123,"7-Hydroxy-3,5,6,8,3',4'-hexamethoxyflavone"
+1141,-7.6,individual_ligand_1141,"7-Hydroxy-6,8-di-C-methylflavanone 7-O-arabinoside"
+1155,-7.6,individual_ligand_1155,"7-O-Methylacacetin, Acacetin 7-methyl ether, Genkwanin 4'-methyl ether, Apigenin 7,4'-dimethyl ether, 5-Hydroxy-4',7-dimethoxyflavone"
+1160,-7.6,individual_ligand_1160,7-O-Methyltectorigenin
+1186,-7.6,individual_ligand_1186,"7,3'-Di-O-methylisoorientin, Isoorientin 7,3'-dimethyl ether"
+1209,-7.6,individual_ligand_1209,"7,4'-Dihydroxy-6,8-di-C-prenylflavanone"
+1236,-7.6,individual_ligand_1236,8-C-Glucosyl-5-deoxykaempferol
+1237,-7.6,individual_ligand_1237,8-C-Glucosyldihydrokaempferol
+1247,-7.6,individual_ligand_1247,"8-C-Methylvelloquercetin 3,5,3'-trimethyl ether"
+1248,-7.6,individual_ligand_1248,8-C-p-Hydroxybenzylkaempferol
+1250,-7.6,individual_ligand_1250,8-C-Rhamnosylgenkwanin
+1254,-7.6,individual_ligand_1254,"8-Demethyleucalyptin, 8-Desmethyleucalyptin, 5-Hydroxy-7,4'-dimethoxy-6-methylflavone"
+1257,-7.6,individual_ligand_1257,8-Desmethylkalmiatin
+1303,-7.6,individual_ligand_1303,"8,3'-Dihydroxy-5,6,7,4'-tetramethoxyflavone"
+1316,-7.6,individual_ligand_1316,"Abrusin 2""-O-beta-apiofuranoside"
+133,-7.6,individual_ligand_133,"2,8-Dihydroxy-3,9,10-trimethoxypterocarpan"
+1349,-7.6,individual_ligand_1349,"ACACETIN, NSC-76061"
+1350,-7.6,individual_ligand_1350,"Acerosin, 3',5,7-Trihydroxy-4',6,8-trimethoxyflavone"
+1393,-7.6,individual_ligand_1393,Agrandol
+1415,-7.6,individual_ligand_1415,Altisin
+1433,-7.6,individual_ligand_1433,Amorphigenin O-glucoside
+1437,-7.6,individual_ligand_1437,"Amorphin, Fruticin, Frutitsin, Amorphigenin O-vicianoside"
+1459,-7.6,individual_ligand_1459,Anhydroicaritin 3-rhamnosyl- (1->2) -rhamnoside
+1463,-7.6,individual_ligand_1463,Anhydrovariabilin
+1474,-7.6,individual_ligand_1474,Apigeniflavan 5-O-xyloside
+1495,-7.6,individual_ligand_1495,"Apigenin 7- (3"",6""-Di-E-p-coumaroylgalactoside)"
+1509,-7.6,individual_ligand_1509,Apigenin 7-allosyl- (1->2) -glucoside
+1511,-7.6,individual_ligand_1511,Apigenin 7-alpha-L-arabinopyranosyl- (1->6) -glucoside
+1519,-7.6,individual_ligand_1519,"Apigenin 7-glucuronide-4'- (6""-malonylglucoside)"
+1532,-7.6,individual_ligand_1532,"Apigenin 7-rhamnoside-4'-glucosylrhamnoside, apigenin 7-O-alpha-L-rhamnoside-4'-O-alpha-L-glucosylrhamnoside"
+1542,-7.6,individual_ligand_1542,"Apigenin 7,4'-dialloside"
+1544,-7.6,individual_ligand_1544,"Apigenin 7,4'-diglucuronide"
+1545,-7.6,individual_ligand_1545,"Apigenin 8-C- (6""-acetylgalactoside)"
+1560,-7.6,individual_ligand_1560,Aromadendrin 3-beta-L-arabinopyranoside
+1563,-7.6,individual_ligand_1563,Aromadendrin 3-rhamnoside-5-glucoside
+1576,-7.6,individual_ligand_1576,"Artabotryside B, Kaempferol 3-rhamnosyl- (1->2) -alpha-L-arabinofuranoside"
+1585,-7.6,individual_ligand_1585,Arthromerin A
+1590,-7.6,individual_ligand_1590,"Artocarpin, 2',4',5-Trihydroxy-7-methoxy-6- (3-methyl-1-butenyl) -3- (3-methyl-2-butenyl) flavone"
+1607,-7.6,individual_ligand_1607,Artonin N
+1613,-7.6,individual_ligand_1613,Artonol E
+1634,-7.6,individual_ligand_1634,Baicalein 6-glucoside
+163,-7.6,individual_ligand_163,2'-Hydroxypiscerythrinetin
+1647,-7.6,individual_ligand_1647,Bartericin A
+1650,-7.6,individual_ligand_1650,Bartericin D
+1656,-7.6,individual_ligand_1656,Bavacoumestan A
+1707,-7.6,individual_ligand_1707,Broussoflavonol E
+1719,-7.6,individual_ligand_1719,Burttinonedehydrate
+1720,-7.6,individual_ligand_1720,"Butein 3,2'-diglucoside"
+1753,-7.6,individual_ligand_1753,Calyxin G
+1759,-7.6,individual_ligand_1759,Candidol
+1798,-7.6,individual_ligand_1798,"Catechin 7,3'-di-O-beta-D-glucopyranoside"
+1825,-7.6,individual_ligand_1825,Chalconaringenin 4-glucoside
+1829,-7.6,individual_ligand_1829,Chamuvaritin
+1835,-7.6,individual_ligand_1835,"chrysin 5,7-dimethyl ether"
+1855,-7.6,individual_ligand_1855,"Chrysoeriol 7,4'-diglucuronide"
+1883,-7.6,individual_ligand_1883,Clandestacarpin
+1017,-7.5,individual_ligand_1017,"6-Hydroxyluteolin 6,3'-dimethyl eter 7-rutinoside"
+1052,-7.5,individual_ligand_1052,6-Methoxypulcherrimin
+1079,-7.5,individual_ligand_1079,"6,8-Di-C-arabinopyranosylapometzgerin"
+1134,-7.5,individual_ligand_1134,"7-Hydroxy-5,6-dimethoxyflavone 7-glucoside"
+113,-7.5,individual_ligand_113,"2,3-Dehydrokievitol"
+1174,-7.5,individual_ligand_1174,"7,2'-Dihydroxy-5,8-dimethyl-4',5'-methylenedioxyflavan"
+1201,-7.5,individual_ligand_1201,"7,4'-Dihydroxy-3,5,6,8-tetramethoxyflavone 4'-glucosyl- (1->3) -galactoside"
+1212,-7.5,individual_ligand_1212,"7,4'-Dihydroxy-8,3'-dimethoxyflavanone"
+1242,-7.5,individual_ligand_1242,8-C-Methylkaempferol 7-glucoside
+1249,-7.5,individual_ligand_1249,"8-C-Prenyl-6"",6""-dimethylpyrano [ 2"",3"":7,6 ] flavanone"
+1253,-7.5,individual_ligand_1253,"8-Cinnamoyl-3,4-dihydro-5,7-dihydroxy-4-phenylcoumarin"
+1259,-7.5,individual_ligand_1259,"8-Hydroxy-3,5,7,3',4',5'-hexamethoxyflavone"
+128,-7.5,individual_ligand_128,"2,5-Dihydroxy-7-methoxy-8-methylflavanone"
+1304,-7.5,individual_ligand_1304,"8,3'-Dihydroxy-5,7,4'-trimethoxy-4-phenylcoumarin"
+1306,-7.5,individual_ligand_1306,"8,3'-Dihydroxy-7,4',5'-trimethoxyflavone"
+1353,-7.5,individual_ligand_1353,Acuminatoside
+1354,-7.5,individual_ligand_1354,"Acutifolin A, (+) -Acutifolin A"
+1389,-7.5,individual_ligand_1389,Agestricin A
+1394,-7.5,individual_ligand_1394,"Alangiflavoside, Mauritianin 7-O-beta-D-glucopyranoside, Kaempferol 3-rhamnosyl- (1->2) [ rhamnosyl- (1->6) -galactoside ] -7-glucoside"
+1418,-7.5,individual_ligand_1418,Amaronol B
+1425,-7.5,individual_ligand_1425,Ambonone
+1426,-7.5,individual_ligand_1426,Ammothamnidin
+1454,-7.5,individual_ligand_1454,Angustone C
+1455,-7.5,individual_ligand_1455,Anguvetin
+1481,-7.5,individual_ligand_1481,Apigenin 5-glucoside
+1516,-7.5,individual_ligand_1516,Apigenin 7-Glucosyl- (1->2) -glucuronide-4'-glucuronide
+1565,-7.5,individual_ligand_1565,Aromadendrin 4'-methyl ether
+1630,-7.5,individual_ligand_1630,Aurmillone
+1643,-7.5,individual_ligand_1643,"Baphinitone, (-) -Homopterocarpin, 3,9-Dimethoxypterocarpan"
+1721,-7.5,individual_ligand_1721,Butrin
+1726,-7.5,individual_ligand_1726,Cajanin
+1730,-7.5,individual_ligand_1730,Callunin
+1743,-7.5,individual_ligand_1743,Calophyllic acid
+1763,-7.5,individual_ligand_1763,Cannabin
+1771,-7.5,individual_ligand_1771,"Capilliposide II, Kaempferol 3-rhamnosyl- (1->2) - [ glucosyl- (1->3) - (4""'-p-coumaroylrhamnosyl) - (1->6) -galactoside ]"
+1785,-7.5,individual_ligand_1785,Castillene B
+1788,-7.5,individual_ligand_1788,Castillene E
+1789,-7.5,individual_ligand_1789,Catechin 3'-O-beta-D-glucopyranoside
+1811,-7.5,individual_ligand_1811,Cerarvensin 7-O-glucoside
+1824,-7.5,individual_ligand_1824,"Chalconaringenin 2',4'-di-O-glucoside"
+182,-7.5,individual_ligand_182,"2',4'-Dihydroxy-3',6'-dimethoxychalcone"
+1832,-7.5,individual_ligand_1832,Chapelieric acid methyl ester
+1842,-7.5,individual_ligand_1842,Chrysin 7-rutinoside
+185,-7.5,individual_ligand_185,"2',4'-Dihydroxy-4,6'-dimethoxydihydrochalcone"
+1863,-7.5,individual_ligand_1863,Chrysosplenoside D
+1864,-7.5,individual_ligand_1864,Chrysosplenoside E
+1865,-7.5,individual_ligand_1865,"Chrysosplenoside H, Brickellin 2'-glucoside, 5,2'-Dihydroxy-3,6,7,4',5'-pentamethoxyflavone 2'-glucoside"
+186,-7.5,individual_ligand_186,"2',4'-Dihydroxy-5,6-dimethoxy-2-phenylbenzofuran"
+1885,-7.5,individual_ligand_1885,Clitoriacetal
+1887,-7.5,individual_ligand_1887,Coatline A
+189,-7.5,individual_ligand_189,"2',4'-Dihydroxy-6'-methoxy-3,4-methylenedioxydihydrochalcone"
+1010,-7.4,individual_ligand_1010,"6-Hydroxykaempferol 6-methyl ether 3- (6""-p-coumaroylglucoside)"
+1029,-7.4,individual_ligand_1029,"6-Hydroxytricetin 6,3',5'-trimethyl eter 7-alpha-L-arabinosyl- (1->6) -glucoside"
+102,-7.4,individual_ligand_102,2-Methoxy-4-hydroxydihydrochalcone
+105,-7.4,individual_ligand_105,2-Methoxypterocarpin
+1097,-7.4,individual_ligand_1097,"6'-Hydroxy-2,3,4,5,2'-pentamethoxy-3',4'-methylenedioxychalcone"
+1105,-7.4,individual_ligand_1105,"6"",6""-Dimethyl-5""-hydroxy-4"",5""-dihydropyrano [ 2"",3"":2',3' ] -4'-hydroxy-6'-methoxychalcone"
+1118,-7.4,individual_ligand_1118,7-Hydroxy-2-methylisoflavone
+1122,-7.4,individual_ligand_1122,"7-Hydroxy-3,5,6,3',4'-pentamethoxyflavone, Quercetagetin 3,5,6,3',4'-pentamethyl ether"
+1124,-7.4,individual_ligand_1124,"7-Hydroxy-3,5,8-trimethoxy-3',4'-methylenedioxyflavone"
+1131,-7.4,individual_ligand_1131,"7-Hydroxy-5,4'-dimethoxy-8-methylisoflavone 7-O-rhamnoside"
+1159,-7.4,individual_ligand_1159,7-O-Methylstrobopinin
+1164,-7.4,individual_ligand_1164,7-O-Prenylcryptostrobin
+1187,-7.4,individual_ligand_1187,"7,3'-Dihydroxy-4'-methoxy-4-phenylcoumarin"
+1196,-7.4,individual_ligand_1196,"7,3',4'-Trihydroxy-6-methoxyflavone 7-rhamnoside-3'-xyloside"
+1216,-7.4,individual_ligand_1216,"7,4'-Dimethoxy-6-C-methylflavanone"
+1228,-7.4,individual_ligand_1228,"8- (1,1-Dimethylallyl) galangin"
+1252,-7.4,individual_ligand_1252,"8-Chloro-5,7,4'-trihydroxy-3-C-methylflavanone"
+1255,-7.4,individual_ligand_1255,"8-Demethyllatifolin, 5,4'-Dihydroxy-3,7-dimethoxy-6-methylflavone"
+1266,-7.4,individual_ligand_1266,"8-Hydroxyapigenin 8- (2""-sulfatoglucuronide)"
+1268,-7.4,individual_ligand_1268,"8-Hydroxyapigenin 8- (6""-E-p-coumaroylglucoside)"
+129,-7.4,individual_ligand_129,"2,5,7,4'-Tetrahydroxyflavanone 7-glucoside"
+131,-7.4,individual_ligand_131,"2,8-Dihydroxy-3,4,9,10-tetramethoxypterocarpan"
+1378,-7.4,individual_ligand_1378,Agecorynin D
+1404,-7.4,individual_ligand_1404,Alnetin
+1408,-7.4,individual_ligand_1408,Alopecurone G
+1436,-7.4,individual_ligand_1436,Amorphigenol O-glucoside
+144,-7.4,individual_ligand_144,"2'-Hydroxy-3',4',6'-trimethoxydihydrochalcone"
+147,-7.4,individual_ligand_147,"2'-Hydroxy-4'-methoxy-5,6-methylenedioxy-2-phenylbenzofuran"
+1486,-7.4,individual_ligand_1486,"Apigenin 7- (2""-acetyl-6""-methylglucuronide)"
+1496,-7.4,individual_ligand_1496,"Apigenin 7- (3"",6""-di-p-coumarylglucoside)"
+1497,-7.4,individual_ligand_1497,"Apigenin 7- (4""-Z-p-coumarylglucoside)"
+1522,-7.4,individual_ligand_1522,"Apigenin 7-Glucuronosyl- (1->3) - [ 2""-p-coumaroylglucuronosyl) - (1->2) -glucuronide ]"
+1526,-7.4,individual_ligand_1526,Apigenin 7-methyl ether 5-glucoside
+1531,-7.4,individual_ligand_1531,Apigenin 7-rhamnoside
+1535,-7.4,individual_ligand_1535,"Apigenin 7-rhamnosyl- (1->6) - (4""-E-p-methoxycinnamoylglucoside)"
+1557,-7.4,individual_ligand_1557,Arcapillin
+155,-7.4,individual_ligand_155,2'-Hydroxybiochanin A
+1562,-7.4,individual_ligand_1562,Aromadendrin 3-methyl ether
+164,-7.4,individual_ligand_164,2'-Methoxy-4'-hydroxydihydrochalcone
+1659,-7.4,individual_ligand_1659,Belamcandin
+1662,-7.4,individual_ligand_1662,"beta-Hydroxy-2',6'-dimethoxy-3',4'-methylenedioxydihydrochalcone"
+166,-7.4,individual_ligand_166,2'-Methoxyhelikrausichalcone
+168,-7.4,individual_ligand_168,2'-O-Methylcajanone
+1693,-7.4,individual_ligand_1693,Brosimacutin D
+1751,-7.4,individual_ligand_1751,Calyxin B
+1776,-7.4,individual_ligand_1776,Carpelastofuran
+1801,-7.4,individual_ligand_1801,Catechin-4-ol 3'-methyl ether 3-O-alpha-L-rhamnopyranoside
+1815,-7.4,individual_ligand_1815,Ceratiolin
+1819,-7.4,individual_ligand_1819,"Chalconaringenin 2'- (6""-p-coumarylglucoside)"
+1845,-7.4,individual_ligand_1845,Chrysoeriol
+1861,-7.4,individual_ligand_1861,Chrysosplenoside A
+1,-7.4,individual_ligand_1,"(-) -4,11,12a-Trihydroxy-9-methoxyrotenone"
+1012,-7.3,individual_ligand_1012,"6-Hydroxyluteolin 5,6,3',4'-tetramethyl eter 7-cellobioside"
+1038,-7.3,individual_ligand_1038,6-Methoxykaempferol 3-galactoside
+1040,-7.3,individual_ligand_1040,"6-Methoxykaempferol 3-methyl ether, 5,7,4'-Trihydroxy-3,6-dimethoxyflavone"
+1071,-7.3,individual_ligand_1071,"6,7-Dihydroxy-5-methoxyflavone 7-glucoside"
+1072,-7.3,individual_ligand_1072,"6,7-Dimethoxy-3',4'-methylenedioxyflavanone"
+1073,-7.3,individual_ligand_1073,"6,7-Dimethoxy-3',4'-methylenedioxyisoflavanone"
+1101,-7.3,individual_ligand_1101,"6'-O-Acetyltrifolirhizin, Trifolirhizin 6'-monoacetate"
+1140,-7.3,individual_ligand_1140,"7-Hydroxy-6,2',4',5'-tetramethoxyisoflavone"
+1145,-7.3,individual_ligand_1145,7-Hydroxyflavanone
+1153,-7.3,individual_ligand_1153,7-Methoxypraecansone B
+1156,-7.3,individual_ligand_1156,"7-O-Methylapigenin, Genkwanin, Gonkwanin"
+1211,-7.3,individual_ligand_1211,"7,4'-Dihydroxy-8-prenylflavone"
+121,-7.3,individual_ligand_121,"2,4-Dihydroxy-6,4'-dimethoxychalcone"
+1222,-7.3,individual_ligand_1222,"7,8-Dimethoxyflavanone"
+122,-7.3,individual_ligand_122,"2,4,2'-Trihydroxy-6"",6""-dimethyl-3'-prenylpyrano [ 2"",3"":4',5' ] chalcone"
+1230,-7.3,individual_ligand_1230,"8-C-beta-D-Glucopyranosyldiosmetin 2""-O-rhamnoside"
+1278,-7.3,individual_ligand_1278,"8-Hydroxyluteolin 4'-methyl ether 7- (6""'-acetylallosyl- (1->2) -glucoside"
+1294,-7.3,individual_ligand_1294,"8-Prenylkaempferol 3-rhamnosyl- (1->3) - [ apiosyl- (1->6) -glucoside ], Noranhydroicaritin 3-rhamnosyl- (1->3) - [ apiosyl- (1->6) -glucoside ], 3,4',5,7-Tetrahydroxy-8- (3-methyl-2-butenyl) flavone 3-rhamnosyl- (1->3) - [ apiosyl- (1->6) -glucoside ]"
+1298,-7.3,individual_ligand_1298,"8-Prenyllisetin, 8-Dimethylallyllisetin"
+1302,-7.3,individual_ligand_1302,"8,2'-Dihydroxyflavone"
+1371,-7.3,individual_ligand_1371,Agamanone
+1387,-7.3,individual_ligand_1387,Agehoustin F
+1419,-7.3,individual_ligand_1419,Ambanol
+1424,-7.3,individual_ligand_1424,"Ambonin, Daidzein 7-O-apiosyl- (1->6) -glucoside"
+1456,-7.3,individual_ligand_1456,Anhydroglycinol
+1483,-7.3,individual_ligand_1483,"Apigenin 5,7-dimethyl ether 4'-galactoside"
+1488,-7.3,individual_ligand_1488,"Apigenin 7- (2""-glucosyllactate)"
+1492,-7.3,individual_ligand_1492,"Apigenin 7- (3""-acetyl-6""-E-p-coumaroylglucoside)"
+149,-7.3,individual_ligand_149,2'-Hydroxy-5'-methoxybiochanin A
+1518,-7.3,individual_ligand_1518,"Apigenin 7-glucuronide-4'- (2""'-E-p-coumaroylglucuronosyl) - (1->2) -glucuronide"
+152,-7.3,individual_ligand_152,2'-Hydroxy-6'-methoxy-4'-prenyloxydihydrochalcone
+1568,-7.3,individual_ligand_1568,"Aromadendrin 5,7-dimethyl ether"
+1587,-7.3,individual_ligand_1587,Artocarpanone
+1602,-7.3,individual_ligand_1602,Artonin F
+1626,-7.3,individual_ligand_1626,Aureol
+1628,-7.3,individual_ligand_1628,"Auriculin, Auriculatin 4'-methyl ether"
+1645,-7.3,individual_ligand_1645,Barpisoflavone B
+1668,-7.3,individual_ligand_1668,"Betuletol, Eupalitin, 6,7-Dimethoxy-3,5,4'-trihydroxyflavone"
+1677,-7.3,individual_ligand_1677,Bisdemalonylmonardaein
+1697,-7.3,individual_ligand_1697,Brosimacutin H
+1703,-7.3,individual_ligand_1703,Broussinol
+170,-7.3,individual_ligand_170,2'-O-Methylphaseollinisoflavan
+1722,-7.3,individual_ligand_1722,Cabreuvin
+1731,-7.3,individual_ligand_1731,"Calocarpin, 3,9-Dihydroxy-2-prenylpterocarpan"
+1745,-7.3,individual_ligand_1745,Calopogoniumisoflavone B
+1748,-7.3,individual_ligand_1748,"Calycosin 7-O-glucoside, Calycosin-7-O-beta-D-glucopyranoside"
+1768,-7.3,individual_ligand_1768,"Caohuoside D, 8- (3""-Hydroxy-3""-methylbutyl) kaempferol 4'-methyl ether 7-glucoside"
+1778,-7.3,individual_ligand_1778,Cassiaflavan
+1802,-7.3,individual_ligand_1802,"Cauliflorin A, Pongol methyl ether"
+1804,-7.3,individual_ligand_1804,Caviunin 7-O-glucoside
+1823,-7.3,individual_ligand_1823,Chalconaringenin 2'-xyloside
+1830,-7.3,individual_ligand_1830,Chandalone
+1840,-7.3,individual_ligand_1840,Chrysin 7-gentiobioside
+1844,-7.3,individual_ligand_1844,"CHRYSIN, NSC-407436"
+1856,-7.3,individual_ligand_1856,Chrysosplenin
+1881,-7.3,individual_ligand_1881,Cladrin 7-O-glucoside
+1013,-7.2,individual_ligand_1013,"6-Hydroxyluteolin 5,6,3',4'-tetramethyl ether"
+1018,-7.2,individual_ligand_1018,"6-Hydroxyluteolin 6,3'-dimethyl ether 7-glucoside"
+1019,-7.2,individual_ligand_1019,"6-Hydroxyluteolin 6,3'-dimethyl ether 7-sulfate"
+1059,-7.2,individual_ligand_1059,"6,2'-Dihydroxy-3,5,7,4',5'-pentamethoxyflavone"
+1067,-7.2,individual_ligand_1067,"6,4'-Dihydroxyaurone-4-O-neohesperidoside"
+1108,-7.2,individual_ligand_1108,"6"",6""-Dimethylpyrano [ 2"",3"":7,8 ] kaempferol 4'-methyl ether 3-rhamnoside"
+1119,-7.2,individual_ligand_1119,"7-Hydroxy-2',4',5'-trimethoxyisoflavone"
+1139,-7.2,individual_ligand_1139,"7-Hydroxy-5,8,2'-trimethoxyflavone"
+1173,-7.2,individual_ligand_1173,"7,2'-Dihydroxy-5-methoxyflavone"
+1183,-7.2,individual_ligand_1183,"7,2',4',5'-Tetramethoxyflavone"
+1185,-7.2,individual_ligand_1185,"7,2',6'-Trihydroxy-5-methoxyflavanone"
+1208,-7.2,individual_ligand_1208,"7,4'-Dihydroxy-5,2'-dimethoxyisoflavanone"
+1234,-7.2,individual_ligand_1234,8-C-Glucopyranosylgenistein 4'-O-glucoside
+1358,-7.2,individual_ligand_1358,Adunctin D
+1360,-7.2,individual_ligand_1360,Aequinetin
+1372,-7.2,individual_ligand_1372,"Ageconyflavone A, 3',4'-Methylenedioxy-5,6,7-trimethoxyflavone"
+1407,-7.2,individual_ligand_1407,Alnustinol
+1413,-7.2,individual_ligand_1413,Alpinumisoflavone
+1414,-7.2,individual_ligand_1414,Alternanthin
+1464,-7.2,individual_ligand_1464,Anthyllin
+1485,-7.2,individual_ligand_1485,Apigenin 6-C-glucosyl-7-O- (6-malyl-glucoside)
+1487,-7.2,individual_ligand_1487,"Apigenin 7- (2""-acetylglucoside)"
+1489,-7.2,individual_ligand_1489,"Apigenin 7- (2""-glucuronosyllactate)"
+1533,-7.2,individual_ligand_1533,Apigenin 7-rhamnoside-4'-rutinoside
+1551,-7.2,individual_ligand_1551,Apiocarpin
+1561,-7.2,individual_ligand_1561,Aromadendrin 3-galactoside
+1584,-7.2,individual_ligand_1584,"Artemetin, 3,6,7,3',4'-Pentamethylquercetagetin, Quercetagetin 3,6,7,3',4'-pentamethyl ether"
+1608,-7.2,individual_ligand_1608,Artonin P
+1639,-7.2,individual_ligand_1639,Bakuchalcone
+1669,-7.2,individual_ligand_1669,"Betuletrin, Eupalitin 3-galactoside"
+1678,-7.2,individual_ligand_1678,Boeravinone A
+1682,-7.2,individual_ligand_1682,Boesenbergin B
+1685,-7.2,individual_ligand_1685,Bonanniol B
+1691,-7.2,individual_ligand_1691,Brosimacutin A
+1696,-7.2,individual_ligand_1696,Brosimacutin G
+1698,-7.2,individual_ligand_1698,Brosimacutin I
+169,-7.2,individual_ligand_169,2'-O-Methylphaseollidinisoflavan
+16,-7.2,individual_ligand_16,(-) -Sativan
+1741,-7.2,individual_ligand_1741,Calomelanol J
+1752,-7.2,individual_ligand_1752,Calyxin C
+176,-7.2,individual_ligand_176,"2',4'-Dihydroxy-2""- (1-hydroxy-1-methylethyl) dihydrofuro [ 2,3-h ] flavanone"
+1794,-7.2,individual_ligand_1794,"Catechin 5,3'-di-O-beta-D-glucopyranoside"
+179,-7.2,individual_ligand_179,"2',4'-Dihydroxy-3,4,6'-trimethoxydihydrochalcone"
+17,-7.2,individual_ligand_17,"(-) -Sophorol, (3R) -Sophorol"
+1803,-7.2,individual_ligand_1803,Caviunin
+180,-7.2,individual_ligand_180,"2',4'-Dihydroxy-3'- (1,1-dimethyl-2-propenyl) chalcone"
+1849,-7.2,individual_ligand_1849,"Chrysoeriol 7- (2""'-feruloylglucuronosyl) - (1->2) -glucuronide"
+1875,-7.2,individual_ligand_1875,Citrunobin
+187,-7.2,individual_ligand_187,"2',4'-Dihydroxy-5,6-methylenedioxy-2-phenylbenzofuran"
+1889,-7.2,individual_ligand_1889,"Combretol, 5-Hydroxy-3,3',4',5',7-pentamethoxyflavone"
+1004,-7.1,individual_ligand_1004,"6-Hydroxykaempferol 3,5,7-trimethyl ether"
+1063,-7.1,individual_ligand_1063,"6,3'-Dimethoxyflavone"
+1065,-7.1,individual_ligand_1065,"6,4'-Dihydroxy-7-methylaurone 6-rhamnoside"
+106,-7.1,individual_ligand_106,2-O-Methylangolensin
+1083,-7.1,individual_ligand_1083,"6,8-Di-C-glucopyranosylgenkwanin"
+109,-7.1,individual_ligand_109,"2,2,4-Trimethyl-6- (1-oxo-3-phenylpropyl) -1,3,5-cyclohexanetrione"
+1133,-7.1,individual_ligand_1133,"7-Hydroxy-5,4'-dimethoxyflavone 8-C-rhamnoside"
+1137,-7.1,individual_ligand_1137,"7-Hydroxy-5,8-dimethoxyflavone 7-glucuronide"
+1138,-7.1,individual_ligand_1138,"7-Hydroxy-5,8,2'-trimethoxyflavanone"
+1175,-7.1,individual_ligand_1175,"7,2'-Dihydroxy-6-methoxyisoflavone"
+1199,-7.1,individual_ligand_1199,"7,4'-Di-O-Methylisomollupentin"
+1224,-7.1,individual_ligand_1224,"7,8,3',4'-Tetramethoxy-6"",6""-dimethylpyrano [ 2"",3"":5,6 ] flavone"
+1241,-7.1,individual_ligand_1241,8-C-Methylkaempferol
+1258,-7.1,individual_ligand_1258,"8-Hydroxy-3,4,9,10-tetramethoxypterocarpan"
+1359,-7.1,individual_ligand_1359,Adunctin E
+1381,-7.1,individual_ligand_1381,Agecorynin G
+1385,-7.1,individual_ligand_1385,Agehoustin D
+1406,-7.1,individual_ligand_1406,Alnustin
+142,-7.1,individual_ligand_142,"2'-Hydroxy-3,7,8,4',5'-pentamethoxyflavone"
+1446,-7.1,individual_ligand_1446,Angolensin
+1450,-7.1,individual_ligand_1450,Angusticornin A
+1528,-7.1,individual_ligand_1528,Apigenin 7-neohesperidoside-4'-glucoside
+156,-7.1,individual_ligand_156,2'-Hydroxydaidzein
+1593,-7.1,individual_ligand_1593,Artocommunol CD
+1618,-7.1,individual_ligand_1618,Astraciceran
+161,-7.1,individual_ligand_161,2'-Hydroxyisolupalbigenin
+167,-7.1,individual_ligand_167,2'-Methoxylupalbigenin
+1701,-7.1,individual_ligand_1701,Brosimone I
+1702,-7.1,individual_ligand_1702,Broussin
+1714,-7.1,individual_ligand_1714,Bryacarpene 4
+173,-7.1,individual_ligand_173,"2',3',4',6'-Tetramethoxychalcone"
+1807,-7.1,individual_ligand_1807,"Centaureidin, Desmethoxycentaureidine, Quercetagetin 3,4',6-trimethyl ether, 5,7,3'-Trihydroxy-3,6,4'-trimethoxyflavone"
+1808,-7.1,individual_ligand_1808,Centaurein
+1814,-7.1,individual_ligand_1814,Cerasinone
+1816,-7.1,individual_ligand_1816,Ceroptene
+181,-7.1,individual_ligand_181,"2',4'-Dihydroxy-3'-isovaleryloxy-6'-methoxychalcone"
+1836,-7.1,individual_ligand_1836,Chrysin 6-C-alpha-L-arabinopyranoside-8-C-glucoside
+1847,-7.1,individual_ligand_1847,Chrysoeriol 6-C-arabinopyranoside-8-C-glucoside
+188,-7.1,individual_ligand_188,"2',4'-Dihydroxy-5,7-dimethoxyisoflavone"
+1890,-7.1,individual_ligand_1890,Comptonin
+1014,-7,individual_ligand_1014,"6-Hydroxyluteolin 5,6,7,4'-tetramethyl ether"
+1024,-7,individual_ligand_1024,"6-Hydroxyluteolin 6,7,3'-trimethyl ether 4'-glucoside"
+1030,-7,individual_ligand_1030,"6-Hydroxytricetin 6,4',5'-trimethyl eter 3'-rhamnoside"
+1046,-7,individual_ligand_1046,"6-Methoxykaempferol 3,7-dirhamnoside"
+1103,-7,individual_ligand_1103,"6""-O-Acetyldaidzin, Daidzein 6""-O-acetate"
+1125,-7,individual_ligand_1125,"7-Hydroxy-3,5,8-trimethoxyflavone"
+1129,-7,individual_ligand_1129,7-Hydroxy-5-methoxy-6-methylflavan
+1161,-7,individual_ligand_1161,7-O-Methyltectorigenin 4'-O-galactoside
+1172,-7,individual_ligand_1172,"7,2'-Dihydroxy-4',5'-methylenedioxy-3-phenylcoumarin"
+1202,-7,individual_ligand_1202,"7,4'-Dihydroxy-3,6-dimethoxyflavone"
+1269,-7,individual_ligand_1269,8-Hydroxyapigenin 8-sophoroside
+1289,-7,individual_ligand_1289,8-O-Methylretusin
+1313,-7,individual_ligand_1313,9-O-Methylphilenopteran
+1323,-7,individual_ligand_1323,Abyssinone I
+1373,-7,individual_ligand_1373,"Ageconyflavone B, 5,6,7,3'-Tetramethoxy-4'-hydroxyflavone"
+1374,-7,individual_ligand_1374,"Ageconyflavone C, 4'-Hydroxy-5,6,7,3',5'-pentamethoxyflavone"
+1377,-7,individual_ligand_1377,Agecorynin C
+1438,-7,individual_ligand_1438,"Amorphol, Amorphigenol O-vicianoside"
+1476,-7,individual_ligand_1476,"Apigenin 4'- (2""-feruloylglucuronosyl) - (1->2) -glucuronide"
+1479,-7,individual_ligand_1479,"Apigenin 5- (6""-malonylglucoside)"
+1501,-7,individual_ligand_1501,"Apigenin 7- (6""-acetylglucoside)"
+1525,-7,individual_ligand_1525,"Apigenin 7-methyl ether 5- (6""-malonylglucoside)"
+153,-7,individual_ligand_153,"2'-Hydroxy-7-methoxy-4',5'-methylenedioxyflavan"
+1580,-7,individual_ligand_1580,Artelastocarpin
+171,-7,individual_ligand_171,2'-O-Methylsepiol
+1742,-7,individual_ligand_1742,Calomelanone
+1777,-7,individual_ligand_1777,Carpusin
+1791,-7,individual_ligand_1791,Catechin 4'-methyl ether
+1809,-7,individual_ligand_1809,"Cephalocerone, 4,5-Methylenedioxy-6-hydroxyaurone"
+1028,-6.9,individual_ligand_1028,6-Hydroxyrotenone
+1035,-6.9,individual_ligand_1035,6-Methoxyflavone
+1064,-6.9,individual_ligand_1064,"6,3',4'-Trimethoxyflavanone"
+1076,-6.9,individual_ligand_1076,"6,7,3'-Trimethoxy-4',5'-methylenedioxyisoflavone"
+1085,-6.9,individual_ligand_1085,"6,8-Di-C-glucopyranosyltricin"
+1128,-6.9,individual_ligand_1128,"7-Hydroxy-3',4'-methylenedioxyflavan 7-O-beta-D-glucopyranoside"
+1152,-6.9,individual_ligand_1152,7-Methoxyflavone
+1180,-6.9,individual_ligand_1180,"7,2'-Dimethoxy-4',5'-methylenedioxyflavanone"
+1197,-6.9,individual_ligand_1197,"7,3',4'-Trimethoxyflavone"
+1200,-6.9,individual_ligand_1200,"7,4'-Di-O-methyltectorigenin"
+1205,-6.9,individual_ligand_1205,"7,4'-Dihydroxy-3'-methoxyflavone 7-glucoside"
+1214,-6.9,individual_ligand_1214,"7,4'-Dihydroxyflavone 7-glucoside"
+1238,-6.9,individual_ligand_1238,"8-C-Glucosyldiosmetin 4""-O-rhamnopyranoside"
+1240,-6.9,individual_ligand_1240,8-C-Methylgalangin
+1367,-6.9,individual_ligand_1367,Afzelechin 4'-O-beta-D-glucopyranoside
+1368,-6.9,individual_ligand_1368,"Afzelechin 5,4'-dimethyl ether"
+1395,-6.9,individual_ligand_1395,Alatanin 2
+1399,-6.9,individual_ligand_1399,Alhagidin
+143,-6.9,individual_ligand_143,"2'-Hydroxy-3',4',6'-trimethoxychalcone"
+1462,-6.9,individual_ligand_1462,Anhydrotuberosin
+1475,-6.9,individual_ligand_1475,Apigenin
+1484,-6.9,individual_ligand_1484,"Apigenin 5,7,4'-trimethyl ether"
+1527,-6.9,individual_ligand_1527,Apigenin 7-neohesperidoside
+1588,-6.9,individual_ligand_1588,Artocarpetin
+1615,-6.9,individual_ligand_1615,Asebogenin
+1651,-6.9,individual_ligand_1651,Bavachalcone
+1680,-6.9,individual_ligand_1680,Boeravinone C
+1717,-6.9,individual_ligand_1717,"Buddlenoid B, Isorhamnetin 7- (6""-p-coumarylglucoside)"
+1724,-6.9,individual_ligand_1724,Cajaflavanone
+1744,-6.9,individual_ligand_1744,Calopogoniumisoflavone A
+1746,-6.9,individual_ligand_1746,"Calotropiside, Isorhamnetin 3- (2G-galactosylrutinoside), Isorhamnetin 3-galactosyl- (1->2) - [ rhamnosyl- (1->6) -glucoside ], Quercetin 3'-methyl ether 3-galactosyl- (1->2) - [ rhamnosyl- (1->6) -glucoside ]"
+1761,-6.9,individual_ligand_1761,Candidone
+1774,-6.9,individual_ligand_1774,Cardamonin
+1850,-6.9,individual_ligand_1850,"Chrysoeriol 7- (3""-Z-p-coumaroylglucoside)"
+1882,-6.9,individual_ligand_1882,Cladrin 7-O-laminaribioside
+1070,-6.8,individual_ligand_1070,"6,7-Dihydroxy-5-methoxyflavanone 7-O-glucoside"
+1080,-6.8,individual_ligand_1080,"6,8-Di-C-arabinopyranosyltricin"
+1104,-6.8,individual_ligand_1104,"6"",6""-Dimethyl-3',4'-methylenedioxypyrano [ 2"",3"":7,8 ] flavone"
+1136,-6.8,individual_ligand_1136,"7-Hydroxy-5,6,8,4'-tetramethoxyflavone"
+1142,-6.8,individual_ligand_1142,7-Hydroxy-8-methoxyflavanone
+114,-6.8,individual_ligand_114,"2,3-Dehydrokievitone"
+1151,-6.8,individual_ligand_1151,7-Methoxyflavanone
+1182,-6.8,individual_ligand_1182,"7,2',4'-Trimethoxyflavone"
+125,-6.8,individual_ligand_125,"2,4'-Dihydroxy-4-methoxydihydrochalcone"
+132,-6.8,individual_ligand_132,"2,8-Dihydroxy-3,9-dimethoxypterocarpan"
+1356,-6.8,individual_ligand_1356,Adunctin B
+135,-6.8,individual_ligand_135,2'-Deoxypiscerythrone
+1364,-6.8,individual_ligand_1364,Afzelechin
+1386,-6.8,individual_ligand_1386,Agehoustin E
+1396,-6.8,individual_ligand_1396,Albanin A
+1401,-6.8,individual_ligand_1401,Aliarin
+1461,-6.8,individual_ligand_1461,"Anhydropisatin, Flemichapparin B, 6a,11a-Dehydropterocarpin"
+1465,-6.8,individual_ligand_1465,Anthyllisone
+146,-6.8,individual_ligand_146,2'-Hydroxy-4'-methoxy-3-phenylpropiophenone
+148,-6.8,individual_ligand_148,"2'-Hydroxy-4',6'-dimethoxy-3'-methyldihydrochalcone"
+1552,-6.8,individual_ligand_1552,"Apometzgerin, Tricetin 3',4'-dimethyl ether"
+1605,-6.8,individual_ligand_1605,Artonin L
+1610,-6.8,individual_ligand_1610,Artonin T
+1641,-6.8,individual_ligand_1641,"Baohuoside 1, Icariside II"
+1670,-6.8,individual_ligand_1670,Bidenoside B
+1713,-6.8,individual_ligand_1713,Bryacarpene 3
+172,-6.8,individual_ligand_172,"2',3'-Dimethoxy Flavone, 2',3'-Dimethoxyflavone"
+1732,-6.8,individual_ligand_1732,Calofloride
+1772,-6.8,individual_ligand_1772,Carajurin
+1795,-6.8,individual_ligand_1795,"Catechin 5,4'-di-O-beta-D-glucopyranoside"
+1800,-6.8,individual_ligand_1800,Catechin-3'-methyl ether
+1859,-6.8,individual_ligand_1859,Chrysosplenol F
+1872,-6.8,individual_ligand_1872,"cis-3-Hydroxy-5,7-dimethoxyflavanone"
+103,-6.7,individual_ligand_103,2-Methoxyhomopterocarpin
+1147,-6.7,individual_ligand_1147,"7-HYDROXYFLAVONE, NSC-94258"
+1157,-6.7,individual_ligand_1157,7-O-Methyleriodictyol 3'-O-glucoside
+1184,-6.7,individual_ligand_1184,"7,2',4',5'-Tetramethoxyisoflavone"
+1191,-6.7,individual_ligand_1191,"7,3'-Dihydroxy-5,4'-dimethoxy-5'-prenylisoflavone"
+1193,-6.7,individual_ligand_1193,"7,3'-Dihydroxy-5,4'-dimethoxyflavone"
+1271,-6.7,individual_ligand_1271,8-Hydroxygalangin 3-methyl ether 8-angelate
+1273,-6.7,individual_ligand_1273,8-Hydroxygalangin 7-methyl ether 8-acetate
+1274,-6.7,individual_ligand_1274,8-Hydroxygalangin 7-methyl ether 8-butyrate
+1299,-6.7,individual_ligand_1299,8-Prenylluteone
+1347,-6.7,individual_ligand_1347,"Acacetin 7-rhamnosyl- (1->6) [ 2""-acetylglucosyl- (1->2) glucoside ]"
+1362,-6.7,individual_ligand_1362,"Afrormosin 7-O- (6""-malonylglucoside)"
+1363,-6.7,individual_ligand_1363,Afrormosin 7-O-laminaribioside
+1478,-6.7,individual_ligand_1478,Apigenin 4'-glucuronide
+1494,-6.7,individual_ligand_1494,"Apigenin 7- (3"",4""-diacetylglucoside)"
+1505,-6.7,individual_ligand_1505,"Apigenin 7- (6""-malonylneohesperidoside)"
+157,-6.7,individual_ligand_157,"2'-Hydroxydaidzein 7,4'-di-O-glucoside"
+1586,-6.7,individual_ligand_1586,Arthromerin B
+1589,-6.7,individual_ligand_1589,Artocarpetin B
+1616,-6.7,individual_ligand_1616,Asebotin
+1624,-6.7,individual_ligand_1624,Aurentiacin
+1635,-6.7,individual_ligand_1635,Baicalein 6-glucuronide
+1648,-6.7,individual_ligand_1648,Bartericin B
+1676,-6.7,individual_ligand_1676,"Bis (6"",6""-dimethyl-4"",5""-dihydropyrano) [ 2"",3"":4',5' ] [ 2"",3"":4,3 ] -2'-hydroxychalcone"
+1725,-6.7,individual_ligand_1725,Cajaisoflavone
+174,-6.7,individual_ligand_174,"2',4'-Dihydroxy Flavone"
+1790,-6.7,individual_ligand_1790,"Catechin 3',4'-di-O-beta-D-glucopyranoside"
+1813,-6.7,individual_ligand_1813,Cerasin
+1846,-6.7,individual_ligand_1846,"Chrysoeriol 5-methyl ether, Luteolin 5,3'-dimethyl ether"
+1870,-6.7,individual_ligand_1870,Cirsimaritin
+101,-6.6,individual_ligand_101,2-Hydroxypseudobaptigenin
+1081,-6.6,individual_ligand_1081,"6,8-Di-C-galactopyranosylapigenin"
+1107,-6.6,individual_ligand_1107,"6"",6""-Dimethylpyrano [ 2"",3"":6',5' ] -2'-hydroxy-4,4'-dimethoxychalcone"
+110,-6.6,individual_ligand_110,"2,2'-Dihydroxy-3,4,5,6'-tetramethoxy-3',4'-methylenedioxychalcone"
+1158,-6.6,individual_ligand_1158,7-O-Methylisolupalbigenin
+1167,-6.6,individual_ligand_1167,"7-Prenyloxy-3',4'-dimethoxyisoflavone"
+1213,-6.6,individual_ligand_1213,"7,4'-Dihydroxyflavone"
+1233,-6.6,individual_ligand_1233,"8-C-beta-D-Xylopyranosylchrysoeriol 4'-O-acetyl 2""-O-glucoside"
+1260,-6.6,individual_ligand_1260,"8-Hydroxy-5,6,7-trimethoxyflavone"
+1272,-6.6,individual_ligand_1272,8-Hydroxygalangin 3-methyl ether 8-methylbutyrate
+1297,-6.6,individual_ligand_1297,8-Prenyllepidissipyrone
+1361,-6.6,individual_ligand_1361,Aervanone
+1366,-6.6,individual_ligand_1366,Afzelechin 3-O-alpha-L-rhamnopyranoside
+1369,-6.6,individual_ligand_1369,Afzelechin 7-O-beta-D-apiofuranoside
+136,-6.6,individual_ligand_136,"2'-Hydroxy Flavone, 2'-Hydroxyflavone"
+137,-6.6,individual_ligand_137,"2'-Hydroxy-2,3,4',6'-tetramethoxychalcone"
+1380,-6.6,individual_ligand_1380,Agecorynin F
+1400,-6.6,individual_ligand_1400,Alhagitin
+1412,-6.6,individual_ligand_1412,Alpinone
+1417,-6.6,individual_ligand_1417,Alysifolinone
+141,-6.6,individual_ligand_141,"2'-Hydroxy-3,5,7,4',5'-pentamethoxyflavone"
+1504,-6.6,individual_ligand_1504,"Apigenin 7- (6""-malonylglucoside)"
+1506,-6.6,individual_ligand_1506,"Apigenin 7- (6""-methylglucuronide)"
+150,-6.6,individual_ligand_150,"2'-Hydroxy-5',6'-dimethoxy-3,4-methylenedioxyfurano [ 2"",3"":4',3' ] dihydrochalcone"
+1604,-6.6,individual_ligand_1604,Artonin K
+1611,-6.6,individual_ligand_1611,Artonin U
+1617,-6.6,individual_ligand_1617,Asiaticalin
+1675,-6.6,individual_ligand_1675,"Biondnoid A, Buddlenoid A, Kaempferol 7- (6""-p-coumarylglucoside)"
+1705,-6.6,individual_ligand_1705,Broussoflavan A
+1712,-6.6,individual_ligand_1712,Bryacarpene 2
+1755,-6.6,individual_ligand_1755,Camaroside
+175,-6.6,individual_ligand_175,"2',4'-Dihydroxy-2,3',6'-trimethoxychalcone"
+1805,-6.6,individual_ligand_1805,Cedrediprenone
+1011,-6.5,individual_ligand_1011,"6-Hydroxyluteolin 3'-methyl ether 6,7-disulfate"
+1090,-6.5,individual_ligand_1090,"6,8-Di-C-methylmyricetin 4'-methyl ether"
+1114,-6.5,individual_ligand_1114,"6a,7-Dihydroxymaackiain"
+1127,-6.5,individual_ligand_1127,"7-Hydroxy-3',4'-methylenedioxyflavan"
+1154,-6.5,individual_ligand_1154,"7-Methylsudachitin, 8-Methoxycirsilineol, 5,4'-Dihidroxy-6,7,8,3'-tetramethoxyflavone"
+1166,-6.5,individual_ligand_1166,7-Prenyloxy-3'-hydroxy-4'-methoxyisoflavone
+1365,-6.5,individual_ligand_1365,"Afzelechin (4alpha-8) peralgonidin 3-O-beta-glucopyranoside, 2- (4-Hydroxyphenyl) -3- (beta-D-glucopyranosyloxy) -5,7-dihydroxy-8- [ [ (2R) -2alpha- (4-hydroxyphenyl) -3beta,5,7-trihydroxy-3,4-dihydro-2H-1-benzopyran] -4alpha-yl] -1-benzopyrylium"
+1397,-6.5,individual_ligand_1397,Albanin E
+140,-6.5,individual_ligand_140,"2'-Hydroxy-3,4,5,4',6'-pentamethoxychalcone"
+1435,-6.5,individual_ligand_1435,Amorphigenol
+1507,-6.5,individual_ligand_1507,"Apigenin 7- (6""-p-coumarylglucoside)"
+154,-6.5,individual_ligand_154,"2'-Hydroxy-7,3',4'-trimethoxyisoflavone"
+1595,-6.5,individual_ligand_1595,Artoindonesianin B
+1599,-6.5,individual_ligand_1599,Artoindonesianin S
+1600,-6.5,individual_ligand_1600,Artoindonesianin T
+1601,-6.5,individual_ligand_1601,Artomunoxanthone
+1603,-6.5,individual_ligand_1603,Artonin J
+1612,-6.5,individual_ligand_1612,Artonol C
+1699,-6.5,individual_ligand_1699,Brosimone G
+1700,-6.5,individual_ligand_1700,Brosimone H
+1704,-6.5,individual_ligand_1704,Broussochalcone B
+1709,-6.5,individual_ligand_1709,Broussonol A
+1711,-6.5,individual_ligand_1711,Bryacarpene 1
+1767,-6.5,individual_ligand_1767,"Caohuoside C, 8-Prenylquercetin 4'-methyl ether 3-rhamnoside"
+1797,-6.5,individual_ligand_1797,"Catechin 5,7,4'-trimethyl ether"
+1831,-6.5,individual_ligand_1831,"Chandanin, Lonchocarpic acid"
+1102,-6.4,individual_ligand_1102,"6""-O-Acetylastragalin, Kaempferol 3- (6""-acetylglucoside)"
+1162,-6.4,individual_ligand_1162,7-O-Methyltectorigenin 4'-O-gentiobioside
+1163,-6.4,individual_ligand_1163,7-O-Methyltectorigenin 4'-O-glucoside
+1171,-6.4,individual_ligand_1171,"7,2'-Dihydroxy-4'-methoxy-3-phenylcoumarin"
+1176,-6.4,individual_ligand_1176,"7,2'-Dihydroxy-6,4'-dimethoxyisoflavone"
+1177,-6.4,individual_ligand_1177,"7,2'-Dihydroxy-6,8-dimethyl-4',5'-methylenedioxyflavan"
+1231,-6.4,individual_ligand_1231,"8-C-beta-D-Glucopyranosyldiosmetin, 8-beta-D-Glucopyranosyl-5,7,3'-trihydroxy-4'-methoxyflavone"
+1280,-6.4,individual_ligand_1280,8-Hydroxyluteolin 4'-methyl ether 7-allosyl- (1->2) -glucoside
+1291,-6.4,individual_ligand_1291,8-O-Methylretusin 7-O-laminaribioside
+1300,-6.4,individual_ligand_1300,"8-Prenylquercetin 7,4'-dimethyl ether 3-rhamnosyl- (1->4) -rhamnoside"
+1305,-6.4,individual_ligand_1305,"8,3'-Dihydroxy-5,7,4'-trimethoxyflavone"
+1383,-6.4,individual_ligand_1383,Agehoustin B
+138,-6.4,individual_ligand_138,"2'-Hydroxy-2,4',6'-trimethoxychalcone"
+139,-6.4,individual_ligand_139,"2'-Hydroxy-3,4,4',6'-tetramethoxychalcone"
+1409,-6.4,individual_ligand_1409,"alpha,4,2'-Trihydroxy-4-O-geranyldihydrochalcone"
+1411,-6.4,individual_ligand_1411,"Alpinetin, 5-O-Methylpinocembrin, 5-Methoxy-7-hydroxyflavanone, 7-Hydroxy-5-methoxyflavanone"
+1508,-6.4,individual_ligand_1508,"Apigenin 7- (6""'-acetylallosyl- (1->2) glucoside)"
+1594,-6.4,individual_ligand_1594,Artoindonesianin A
+1596,-6.4,individual_ligand_1596,"Artoindonesianin P, O-Demethylartonin K, O,O'-Didemethylartonin L"
+1598,-6.4,individual_ligand_1598,Artoindonesianin R
+159,-6.4,individual_ligand_159,"2'-Hydroxyfurano [ 2"",3"":4',3' ] chalcone"
+1614,-6.4,individual_ligand_1614,Arvensan
+1625,-6.4,individual_ligand_1625,Aurentiacin A
+162,-6.4,individual_ligand_162,2'-Hydroxymatteucinol
+1674,-6.4,individual_ligand_1674,"Biochanin B, Formononetin, Formononetol, Daidzein 4'-methyl ether, 7-Hydroxy-4'-methoxyisoflavone"
+1692,-6.4,individual_ligand_1692,Brosimacutin C
+1710,-6.4,individual_ligand_1710,Broussonol B
+1715,-6.4,individual_ligand_1715,Bryacarpene 5
+1812,-6.4,individual_ligand_1812,Cerasidin
+1817,-6.4,individual_ligand_1817,Cerosilin B
+1852,-6.4,individual_ligand_1852,Chrysoeriol 7-alpha-L-arabinofuranosyl- (1->6) -glucoside
+1853,-6.4,individual_ligand_1853,Chrysoeriol 7-apiosyl- (1->6) -glucoside
+1871,-6.4,individual_ligand_1871,"cis-12a-Hydroxyrot-2'-enonic acid, (6aR,12aR) -6a,12a-Dihydro-9,12a-dihydroxy-2,3-dimethoxy-8- (3-methyl-2-butenyl) - [1] benzopyrano [3,4-b] [1] benzopyran-12 (6H) -one"
+18,-6.4,individual_ligand_18,(-) -Sparticarpin
+115,-6.3,individual_ligand_115,"2,3-Dehydrokievitone hydrate"
+1169,-6.3,individual_ligand_1169,"7-Prenyloxy-8-methoxy-3',4'-methylenedioxyisoflavone"
+1402,-6.3,individual_ligand_1402,Aliarin 4'-methyl ether
+1597,-6.3,individual_ligand_1597,Artoindonesianin Q
+1606,-6.3,individual_ligand_1606,Artonin M
+1661,-6.3,individual_ligand_1661,"beta-Hydroxy-2,3,4,5,2',4',5'-heptamethoxychalcone"
+1735,-6.3,individual_ligand_1735,Calomelanol C
+1810,-6.3,individual_ligand_1810,"Cerarvensin 2""-O-rhamnoside"
+111,-6.2,individual_ligand_111,"2,2'-Dihydroxychalcone"
+112,-6.2,individual_ligand_112,"2,2',4'-Trihydroxy-6'-methoxychalcone"
+1382,-6.2,individual_ligand_1382,Agehoustin A
+1391,-6.2,individual_ligand_1391,Agestricin C
+1398,-6.2,individual_ligand_1398,Alfalone
+1410,-6.2,individual_ligand_1410,"alpha,beta-Dihydroxanthohumol"
+1448,-6.2,individual_ligand_1448,Angoluvarin
+1649,-6.2,individual_ligand_1649,Bartericin C
+1447,-6.1,individual_ligand_1447,Angoletin
+1324,-6,individual_ligand_1324,Abyssinone II
