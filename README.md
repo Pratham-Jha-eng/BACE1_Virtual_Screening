@@ -17,7 +17,8 @@ The overall computational strategy follows a workflow commonly reported in flavo
 
 ## 🧬 Target Protein
 
-
+![BACE-1 Protein Structure](figures/bace1_structure.png)
+*Figure 1: Overall three-dimensional structure of BACE-1 (PDB ID: 2ZJIN) represented as a green cartoon ribbon. The central cavity represents the substrate-binding cleft.*
 
 * **Protein:** β-site amyloid precursor protein cleaving enzyme-1 (BACE-1)
 * **PDB ID:** `2ZJIN`
@@ -27,11 +28,6 @@ The overall computational strategy follows a workflow commonly reported in flavo
 ---
 
 ## 🧪 Ligand Library
-
-
-
-[Image of flavonoid chemical structure]
-
 
 * **Library Size:** 1000 compounds
 * **Compound Class:** Flavonoids
@@ -50,10 +46,44 @@ The overall computational strategy follows a workflow commonly reported in flavo
 * Protein saved in PDBQT format using **AutoDock Tools**.
 
 ### 2️⃣ Active-Site Identification and Grid Validation
-Docking was performed using a targeted (active-site) approach. The grid center was visually validated in PyMOL to ensure it lies within the catalytic cleft between **Asp32** and **Asp228**.
+Docking was performed using a targeted (active-site) approach. The search space was defined to encompass the catalytic dyad (**Asp32** and **Asp228**), which is essential for BACE-1 proteolytic activity.
 
-**Grid Center Coordinates:**
-```text
-x = 74.44
-y = 32.979
-z = 28.979
+**Visual Verification:**
+The grid box center and dimensions were visually inspected in PyMOL relative to the crystallographic ligand and catalytic residues.
+
+![Active Site Validation](figures\Screenshot 2025-12-14 051206.png)
+*Figure 2: Visualization of the docking grid box (Red) centered on the BACE-1 active site. The catalytic aspartyl residues (Asp32, Asp228) are highlighted in stick representation, confirming their inclusion within the search space.*
+
+**Grid Parameters:**
+* **Center:** `x=74.44`, `y=32.979`, `z=28.979`
+* **Size:** `30 x 30 x 30 Å`
+
+> **Validation Outcome:** The grid box successfully covers the substrate-binding cleft without being excessively large, reducing the false-positive rate from non-specific surface binding.
+
+### 3️⃣ Ligand Preparation
+* SMILES converted to three-dimensional structures.
+* Energy minimization performed.
+* Partial charges assigned.
+* Ligands saved individually in PDBQT format.
+* *Ligand preparation was performed consistently across the entire library.*
+
+### 4️⃣ Molecular Docking
+* **Software:** AutoDock Vina
+* **Method:** Docking performed individually for each ligand.
+* **Ranking:** Poses ranked based on binding affinity; the lowest binding energy pose was retained.
+
+**AutoDock Vina Configuration (`config.txt`):**
+```bash
+receptor = protein/BACE1_prepared.pdbqt
+
+center_x = 74.44
+center_y = 32.979
+center_z = 28.979
+
+size_x = 30
+size_y = 30
+size_z = 30
+
+exhaustiveness = 8
+num_modes = 9
+log = vina_log.txt
