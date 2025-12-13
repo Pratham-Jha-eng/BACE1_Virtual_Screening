@@ -51,7 +51,7 @@ Docking was performed using a targeted (active-site) approach. The search space 
 **Visual Verification:**
 The grid box center and dimensions were visually inspected in PyMOL relative to the crystallographic ligand and catalytic residues.
 
-![Active Site Validation](figures\active_site_validation.png)
+![Active Site Validation](figures/active_site_validation.png)
 *Figure 2: Visualization of the docking grid box (Red) centered on the BACE-1 active site. The catalytic aspartyl residues (Asp32, Asp228) are highlighted in stick representation, confirming their inclusion within the search space.*
 
 **Grid Parameters:**
