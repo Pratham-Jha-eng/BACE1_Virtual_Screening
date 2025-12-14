@@ -18,6 +18,7 @@ The overall computational strategy follows a workflow commonly reported in flavo
 ## 🧬 Target Protein
 
 ![BACE-1 Protein Structure](figures/bace1_structure.png)
+
 *Figure 1: Overall three-dimensional structure of BACE-1 (PDB ID: 2ZJIN).The central cavity represents the substrate-binding cleft.*
 
 * **Protein:** β-site amyloid precursor protein cleaving enzyme-1 (BACE-1)
@@ -131,10 +132,10 @@ Key molecular descriptors required for drug-likeness evaluation were calculated 
 
 A compound was considered **PASS** if it violated **no more than one** of the following conditions:
 
-1. \( MW \leq 500 \)  
-2. \( LogP \leq 5 \)  
-3. \( HBD \leq 5 \)  
-4. \( HBA \leq 10 \)  
+1. \( MW <=500 \)  
+2. \( LogP <=5 \)  
+3. \( HBD <=5 \)  
+4. \( HBA <=10 \)  
 
 ---
 
