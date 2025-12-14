@@ -30,7 +30,7 @@ The overall computational strategy follows a workflow commonly reported in flavo
 
 ## 🧪 Ligand Library
 
-* **Library Size:** 1000 compounds
+* **Library Size:** 1870 compounds
 * **Compound Class:** Flavonoids
 * **Initial Representation:** SMILES
 * **Docking Format:** PDBQT
