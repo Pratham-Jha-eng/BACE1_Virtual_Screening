@@ -87,3 +87,86 @@ size_z = 30
 exhaustiveness = 8
 num_modes = 9
 log = vina_log.txt
+
+### 5️⃣ Drug-Likeness & Toxicity Screening
+
+A multi-stage screening process was employed to evaluate the drug-likeness and safety profile of the docked compounds.
+
+#### **Step A: Physicochemical Descriptors (Open Babel)**
+
+**Open Babel** was used to calculate key physicochemical properties required for Lipinski's analysis:
+
+*   Molecular Weight (MW)
+    
+*   Partition Coefficient (LogP)
+    
+*   Hydrogen Bond Donors (HBD)
+    
+*   Hydrogen Bond Acceptors (HBA)
+    
+
+#### **Step B: Toxicity & Drug Scores (OSIRIS Property Explorer)**
+
+**OSIRIS Property Explorer** was utilized to predict toxicity risks and overall drug potential.
+
+*   **Drug-Likeness Score:** Quantitative estimation of drug-like behavior.
+    
+*   **MR:** Molar Refractivity.
+    
+*   **TR (Toxicity Risks):** Assessment of mutagenic, tumorigenic, and irritant effects.
+    
+*   **RE (Reproductive Effects):** Prediction of reproductive toxicity.
+    
+
+#### **Step C: Data Aggregation & Filtering (Microsoft Excel)**
+
+Data from Open Babel and OSIRIS were merged into a master dataset. **Excel logical functions** were employed to automate the filtering process:
+
+1.  **Lipinski Classification:** A PASS/FAIL criterion was established based on the Rule of Five:
+    
+    *   _MW ≤ 500, LogP ≤ 5, HBD ≤ 5, HBA ≤ 10._
+        
+    *   Compounds with **≤ 1 violation** were marked as PASS.
+        
+2.  **Final Prioritization:** Compounds were shortlisted based on the intersection of:
+    
+    *   Top docking scores (High affinity).
+        
+    *   Valid Lipinski status (Drug-like properties).
+        
+    *   Positive OSIRIS Drug-Likeness Scores.
+        
+    *   Absence of high-risk toxicity alerts.
+	
+📊 Results Summary
+------------------
+
+*   Docking revealed a broad range of binding affinities across the flavonoid library.
+    
+*   Several compounds demonstrated favorable interactions with the BACE-1 active site.
+    
+*   **Lipinski Analysis:** Violations were primarily associated with high molecular weight and excessive hydrogen bond donors/acceptors.
+    
+*   **Toxicity Profile:** OSIRIS analysis helped exclude compounds with significant mutagenic or reproductive toxicity risks despite high binding affinity.
+    
+*   **Outcome:** Compounds satisfying docking, Lipinski, and OSIRIS safety criteria were prioritized as potential lead candidates.
+
+🛠️ Software Used
+-----------------
+
+*   **AutoDock Vina** (Docking engine)
+    
+*   **AutoDock Tools** (Preprocessing)
+    
+*   **Open Babel v3.1.1** (Descriptor calculation)
+    
+*   **OSIRIS Property Explorer** (Toxicity & Drug-Likeness prediction)
+    
+*   **PyMOL** (Visualization)
+    
+*   **Microsoft Excel** (Data analysis & Logical filtering)
+
+📜 License
+----------
+
+This project is intended for academic and research purposes only.
