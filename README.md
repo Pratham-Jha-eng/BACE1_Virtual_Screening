@@ -19,7 +19,7 @@ The overall computational strategy follows a workflow commonly reported in flavo
 
 ![BACE-1 Protein Structure](figures/bace1_structure.png)
 
-*Figure 1: Overall three-dimensional structure of BACE-1 (PDB ID: 2ZJIN).The central cavity represents the substrate-binding cleft.*
+*Figure 1: Overall three-dimensional structure of BACE-1 (PDB ID: 2ZJN).The central cavity represents the substrate-binding cleft.*
 
 * **Protein:** β-site amyloid precursor protein cleaving enzyme-1 (BACE-1)
 * **PDB ID:** `2ZJIN`
